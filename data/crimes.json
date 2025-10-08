@@ -1,0 +1,193 @@
+{
+  "crimes": [
+    {
+      "crime": "Jay Walking",
+      "item": "Chill Pill",
+      "successful": "You crossed the road, no one saw you, and when you got home you treated yourself to [xyz] for that heinous deed",
+      "unsuccessful": "You tried to cross the road and someone spotted you and gave you a dirty look, so you felt bad because you're a bitch",
+      "death": "You tried to jaywalk but were hit by a car"
+    },
+    {
+      "crime": "Arson",
+      "item": "None",
+      "successful": "You set a building on fire and only got what you found [xyz]",
+      "unsuccessful": "Turns out you tried to set the fire station on fire, it didn't end well",
+      "death": "You tried to set the police station on fire! They apprehended it and kinda sorta.. shot you"
+    },
+    {
+      "crime": "Bank robbing",
+      "item": "Bank Note",
+      "successful": "You robbed a bank and got yourself [xyz]. Cute!",
+      "unsuccessful": "You tried to rob a bank but got scared, lol",
+      "death": "You robbed a bank and the little old lady was packing heat, you did NOT make it out"
+    },
+    {
+      "crime": "Driving under the influence (DUI)",
+      "item": "Alcohol / Bottle of Whiskey",
+      "successful": "You went all white at the wheel and hit someone. You got arrested.",
+      "unsuccessful": "You drove your bike while drunk and crashed.",
+      "death": "You wrapped your car around a tree."
+    },
+    {
+      "crime": "Eating A Hot Dog Sideways",
+      "item": "Sanic Hot Dog / Golden Dog",
+      "successful": "You ate a hot dog sideways and got arrested.",
+      "unsuccessful": "You ate a hot dog sideways and no one was impressed, only disturbed.",
+      "death": "You tried to eat your hot dog sideways and choked."
+    },
+    {
+      "crime": "Fraud",
+      "item": "None",
+      "successful": "You lied to an old lady about the price of whiskey.",
+      "unsuccessful": "Turns out the lady you tried to scam was also a scammer!",
+      "death": "Lady you tried to fool had a shotgun and shot you!"
+    },
+    {
+      "crime": "Grand Theft Auto",
+      "item": "Alcohol / Robbers Mask",
+      "successful": "You got away with a sick car, and no one even noticed. You sold it for [amount].",
+      "unsuccessful": "You realized you have no clue on how to actually steal a car, you fucking idiot.",
+      "death": "The NPC you tried to steal the car from turned into an NPC."
+    },
+    {
+      "crime": "Breaking and entering",
+      "item": "None",
+      "successful": "You found ⊗ xyz, nice loot.",
+      "unsuccessful": "You found nothing, the key is to try harder.",
+      "death": "The key was not to break and enter. You died."
+    },
+    {
+      "crime": "Cyber bullying",
+      "item": "Cell Phone",
+      "successful": "You bullied a kid and he sent you [xyz] to stop! I hope that kid grows up richer than you.",
+      "unsuccessful": "You tried to bully a kid, but quickly got banned by mods. LOL, seeya idiot.",
+      "death": "You laughed at a kid so much, you choked to death. Who is laughing now? Imagine being a bully."
+    },
+    {
+      "crime": "Drug distribution",
+      "item": "Chill Pill / Delta 9 seeds",
+      "successful": "You distributed a lot of drugs and earned [xyz], are you the next Escobar?",
+      "unsuccessful": "You didn’t find any clients… Maybe try a different industry?",
+      "death": "Police caught you and killed you immediately :( No more drugs!"
+    },
+    {
+      "crime": "Carding",
+      "item": "Normie Box",
+      "successful": "You hacked into Dank Memer and gave yourself [xyz].message @sayeh for withdrawal!",
+      "unsuccessful": "You wanted to hack @sayeh but you failed. miseralbe",
+      "death": "You got caught hacking into @sayeh account and he stole your money."
+    },
+    {
+      "crime": "Highway Robbery",
+      "item": "Beggar's Bowl",
+      "successful": "You found $[amount], after robbing poor people begging on the highway.",
+      "unsuccessful": "You went looking for people on the highway, and found nothing but depression. You're sad now. Get therapy, asshole.",
+      "death": "While walking along the highway, you were hit by a car. You died. Good car tbh."
+    },
+    {
+      "crime": "Identity theft",
+      "item": "Fake ID",
+      "successful": "You stole a developer's identity and gave yourself [xyz].",
+      "unsuccessful": "You stole the identity of Chuck Norris... unfortunately, he noticed it and reported you.",
+      "death": "You stole the identity of Chuck Norris... unfortunately, he noticed it and MURDERED you with cold blood!"
+    },
+    {
+      "crime": "Idle hands",
+      "item": "Devil's Horn",
+      "successful": "You did nothing with your hands for a day and somehow got $[amount]. Idle hands are the devil's playground.",
+      "unsuccessful": "",
+      "death": "You attempted to do nothing all day with your hands, but instead felt a compelling force instruct you to put your hands inside the carcass of a rotting goat. You contracted goat ass disease and died. Why do that you freak."
+    },
+    {
+      "crime": "Littering",
+      "item": "Garbage",
+      "successful": "You littered and somehow found [xyz]. Diabolical!",
+      "unsuccessful": "You littered in your own home lol",
+      "death": "You littered in your mother's house and Young Gravy was not happy with the distraction, he killed you."
+    },
+    {
+      "crime": "Murder",
+      "item": "Bank Note",
+      "successful": "You murdered a random stranger in a dark alley. There was [xyz] in his wallet! Was it worth it?",
+      "unsuccessful": "You tried to murder a random stranger, but he got away. You can't even murder properly.",
+      "death": "You were holding the gun upside down and killed yourself! Imagine being this stupid."
+    },
+    {
+      "crime": "Paying for twitter blue",
+      "item": "Life Saver",
+      "successful": "You found [xyz], bet you'll wish it on twitter blue again.",
+      "unsuccessful": "You found nothing, and no I won't call it 'x'.",
+      "death": "Elon Musk catfished you to death. L twitter blue user. All the cringe shit on twitter got to your head, you had a stroke. L."
+    },
+    {
+      "crime": "Pineapple on pizza",
+      "item": "Pizza Slice",
+      "successful": "You put pineapple on pizza? Yeah that's fine I guess. You found [xyz].",
+      "unsuccessful": "Ew pineapple on pizza? CRINGE and f**king fail.",
+      "death": "DEATH TO ALL PINEAPPLE ON PIZZA EATERS (you died)."
+    },
+    {
+      "crime": "Piracy",
+      "item": "Camera / Keyboard / Mouse",
+      "successful": "You ripped off your favorite movies and also found [xyz].",
+      "unsuccessful": "You tried to pirate an old film and got distracted on the free websites instead.",
+      "death": "The FBI found out about that copy of your Air Bud DVD you made and 'took you out.'"
+    },
+    {
+      "crime": "Poisoning",
+      "item": "Witch Hat",
+      "successful": "You found [amount], after you made a potion and poisoned it. You WITCH.",
+      "unsuccessful": "You attempted to poison someone with your nasty potion, but they didn’t drink it. Probably because you’re an ugly witch so no one trusts you.",
+      "death": "While making your brew, a much better witch turned you into a toad and stepped on you. Get witched, bitch."
+    },
+    {
+      "crime": "Shoplifting",
+      "item": "Cell Phone",
+      "successful": "You managed to steal [xyz]. Money Heist!",
+      "unsuccessful": "You tried to steal something, but the shop was closed!",
+      "death": "You stole an unknown drink and drank it. You died. RIP"
+    },
+    {
+      "crime": "Stab grandma",
+      "item": "Coin Bomb / Old box / Life Saver",
+      "successful": "Grandma had [xyz], you had a knife. It's easy math.",
+      "unsuccessful": "Grandma said 'ahhhh you got me,' but you found nothing to take from her. Jerk.",
+      "death": "Grandma pulled her dentures out and smothered you. You died."
+    },
+    {
+      "crime": "Stealing from drug lords",
+      "item": "Delta 9 seeds",
+      "successful": "You found [xyz], luckily they didn't see you.",
+      "unsuccessful": "You found nothing, but no one caught you either.",
+      "death": "The drug lord is not happy. You are no longer alive."
+    },
+    {
+      "crime": "Tax evasion",
+      "item": "Badosz's Card / Bank Note",
+      "successful": "You saved [xyz] on avoiding taxes! You didn't tell anyone...",
+      "unsuccessful": "You accidentally sent incorrect papers and enraged someone. Loser!",
+      "death": "You got caught and the judge decided to give you a death penalty!"
+    },
+    {
+      "crime": "Treason",
+      "item": "Police Badge",
+      "successful": "You successfully overthrew the government with your treason and in the halls of congress found [xyz].",
+      "unsuccessful": "You failed to host an insurrection, everyone is laughing at you.",
+      "death": "You were caught and the minimum punishment for treason is death."
+    },
+    {
+      "crime": "Trespassing",
+      "item": "None",
+      "successful": "You walked straight into someone else's yard and found [xyz]. Free real estate!",
+      "unsuccessful": "You got confused about what trespassing was and ended up back on your own back yard.",
+      "death": "You tried trespassing onto the property of the 10th fish and it did NOT go well."
+    },
+    {
+      "crime": "Vandalism",
+      "item": "Shovel",
+      "successful": "You wrote 'Dank Memer' on a wall and the developers sent you [xyz]. Nice!",
+      "unsuccessful": "You tried to write something on a wall, but ran out of spray. LOL",
+      "death": "While writing on the wall you fell from the 10th floor and died."
+    }
+  ]
+}

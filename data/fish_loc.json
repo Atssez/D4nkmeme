@@ -1,0 +1,113 @@
+[
+    {
+        "name": "Abstraction Bay",
+        "type": "Saltwater",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshlocimg\\Abstraction_Bay.png",
+        "prize": [
+            {
+                "name": "Blue Tang",
+                "price": "4000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Blue_Tang.png"
+            },
+            {
+                "name": "Boxfish",
+                "price": "5000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Boxfish.png"
+            },
+            {
+                "name": "Shrimp",
+                "price": "4000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Shrimp.png"
+            },
+            {
+                "name": "Jellyfish",
+                "price": "3000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Jellyfish.png"
+            },
+            {
+                "name": "Lionfish",
+                "price": "7000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Lionfish.png"
+            },
+            {
+                "name": "Starfish",
+                "price": "2000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Starfish.png"
+            }
+        ]
+    },
+    {
+        "name": "Camp Guillermo",
+        "type": "Freshwater",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshlocimg\\Camp_Guillermo.png",
+        "prize": [
+            {
+                "name": "Bass",
+                "price": "4000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Bass.png"
+            },
+            {
+                "name": "Bluegill",
+                "price": "5000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Bluegill.png"
+            },
+            {
+                "name": "Bullfrog",
+                "price": "10000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Bullfrog.png"
+            },
+            {
+                "name": "Crappie",
+                "price": "3000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Crappie.png"
+            },
+            {
+                "name": "White Perch",
+                "price": "5000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\White_Perch.png"
+            },
+            {
+                "name": "Yellow Perch",
+                "price": "4000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Yellow_Perch.png"
+            }
+        ]
+    },
+    {
+        "name": "Vertigo Beach",
+        "type": "Saltwater",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshlocimg\\Vertigo_Beach.png",
+        "prize": [
+            {
+                "name": "Butterfly Fish",
+                "price": "15000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Butterfly_Fish.png"
+            },
+            {
+                "name": "Jellyfish",
+                "price": "5000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Jellyfish.png"
+            },
+            {
+                "name": "Ocean Sunfish",
+                "price": "10000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Ocean_Sunfish.png"
+            },
+            {
+                "name": "Shrimp",
+                "price": "4000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Shrimp.png"
+            },
+            {
+                "name": "Starfish",
+                "price": "2000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Starfish.png"
+            },
+            {
+                "name": "Boxfish",
+                "price": "5000",
+                "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fish_pic\\Boxfish.png"
+            }
+        ]
+    }
+]

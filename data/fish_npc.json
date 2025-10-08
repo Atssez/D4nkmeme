@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Chad Erningway",
+    "location": "Vertigo Beach",
+    "mood": 0,
+    "moodimages": {
+      "0": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshnpc\\Chad_Erningway\\default.png",
+      "1": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshnpc\\Chad_Erningway\\happy.png",
+      "-1": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshnpc\\Chad_Erningway\\sad.png",
+      "-2": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshnpc\\Chad_Erningway\\angry.png"
+    },
+    "dialogue": {
+      "talk": "You ever wonder if the fish are watching us back? I do. Every time I cast my line, I feel like I'm being judged.",
+      "gift": "Found this washed up near the rocks. Thought you might appreciate it more than the sea did.",
+      "request": "That Anglerfish you just reeled in... it reminds me of someone I lost. Mind if I take it?",
+      "trade": "I’ll give you this old compass. It doesn’t point north, but it always finds trouble. Trade?",
+      "task": "Fish at Vertigo Beach for the next hour. The tide’s whispering secrets, and I need someone to listen."
+    }
+  },
+  {
+    "name": "Chet Sterling",
+    "location": "Camp Guillermo",
+    "mood": 0,
+    "moodimages": {
+      "0": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshnpc\\Chet_Sterling\\default.png",
+      "1": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshnpc\\Chet_Sterling\\happy.png",
+      "-1": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshnpc\\Chet_Sterling\\sad.png",
+      "-2": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshnpc\\Chet_Sterling\\angry.png"
+    },
+    "dialogue": {
+      "talk": "You know, I once sold a boot as a rare freshwater eel. The guy still thanks me for it.",
+      "gift": "Here, take this bait. It’s not legal in five states, but the fish love it.",
+      "request": "That Bass? I’ve got a buyer who thinks it’s a mythical creature. Let me take it off your hands.",
+      "trade": "I’ll swap you this shiny lure for that Crappie. It’s enchanted. Probably.",
+      "task": "Catch three fish using only rotten bait. If you succeed, I’ll owe you a favor. And I hate owing favors."
+    }
+  },
+  {
+    "name": "Margaux Handler",
+    "location": "Abstraction Bay",
+    "mood": 0,
+    "moodimages": {
+      "0": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshnpc\\Margaux_Handler\\default.png",
+      "1": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshnpc\\Margaux_Handler\\happy.png",
+      "-1": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshnpc\\Margaux_Handler\\sad.png",
+      "-2": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshnpc\\Margaux_Handler\\angry.png"
+    },
+    "dialogue": {
+      "talk": "Darling, the ocean is my runway. And you? You’re the only one fishing in style.",
+      "gift": "I found this shimmering scale. It matches your aura. Don’t ask how I know.",
+      "request": "That Starfish is divine. I need it for my underwater centerpiece. May I?",
+      "trade": "I’ll trade you this pearl-studded hook for that Jellyfish. It glows in moonlight, just like me.",
+      "task": "Catch only pink fish today. I’m curating a pastel aquarium and you’re my personal angler."
+    }
+  }
+]

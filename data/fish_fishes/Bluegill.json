@@ -1,0 +1,9 @@
+{
+    "name": "Bluegill",
+    "price": 5000,
+    "location": [
+        "Camp Guillermo"
+    ],
+    "rarity": "Uncommon",
+    "link": "C:\\Users\\Atsez\\Desktop\\TelegramBot\\data\\fish_pic\\Bluegill.png"
+}

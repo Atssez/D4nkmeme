@@ -1,0 +1,955 @@
+[
+  {
+    "id": 1,
+    "scenario": "You see some bandits about to rob the local town's bank. What do you do?",
+    "choices": [
+      {
+        "option": "Join Them",
+        "outcomes": [
+          {
+            "result": "100000 coins",
+            "chance": "25%",
+            "reaction": "*You flex your wallet like a true outlaw 💸*"
+          },
+          {
+            "result": "Lose everything",
+            "chance": "25%",
+            "reaction": "*You got clapped harder than a saloon door 💀*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "25%",
+            "reaction": "*Your backpack cried itself to sleep 😱*"
+          },
+          {
+            "result": "End safely",
+            "chance": "25%",
+            "reaction": "*Nothing happened. Suspense killed the moment. 😐*"
+          }
+        ]
+      },
+      {
+        "option": "Stop Them",
+        "outcomes": [
+          {
+            "result": "Golden Nugget",
+            "chance": "25%",
+            "reaction": "*You struck gold! Shine brighter than your future! ✨*"
+          },
+          {
+            "result": "Lose everything",
+            "chance": "25%",
+            "reaction": "*The bandits ain't sorry. Neither should you. 💀*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "25%",
+            "reaction": "*Your loot vanished. Poof! Whoops. 😱*"
+          },
+          {
+            "result": "End safely",
+            "chance": "25%",
+            "reaction": "*You walked away unscathed like a boss. 😎*"
+          }
+        ]
+      },
+      {
+        "option": "Report Them",
+        "outcomes": [
+          {
+            "result": "35000 coins",
+            "chance": "25%",
+            "reaction": "*Cha-ching! Cash rules everything. 💰*"
+          },
+          {
+            "result": "Lasso",
+            "chance": "25%",
+            "reaction": "*Yeehaw! Time to catch some horses. 🤠*"
+          },
+          {
+            "result": "Nothing",
+            "chance": "25%",
+            "reaction": "*You tattled but crickets followed. 🦗*"
+          },
+          {
+            "result": "End safely",
+            "chance": "25%",
+            "reaction": "*You survived the snitch life. 🕵️*"
+          }
+        ]
+      },
+      {
+        "option": "Run Away",
+        "outcomes": [
+          {
+            "result": "Nothing",
+            "chance": "33.3%",
+            "reaction": "*You ran so fast you left your hat behind. 🎩*"
+          },
+          {
+            "result": "Lose everything",
+            "chance": "33.3%",
+            "reaction": "*You ran into trouble. Now you're flat broke. 💀*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*You escaped but your shiniest loot stayed behind. 😱*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "scenario": "You entered the saloon to rest from the journey. What do you do?",
+    "choices": [
+      {
+        "option": "Take a Drink",
+        "outcomes": [
+          {
+            "result": "25000 coins",
+            "chance": "50%",
+            "reaction": "*That drink hit harder than your ex’s texts 🍻💸*"
+          },
+          {
+            "result": "Nothing",
+            "chance": "50%",
+            "reaction": "*You sipped sadness. Nothing happened. 🥲*"
+          }
+        ]
+      },
+      {
+        "option": "Throw a Drink",
+        "outcomes": [
+          {
+            "result": "75000 coins",
+            "chance": "50%",
+            "reaction": "*You made it rain in the saloon 💦💰*"
+          },
+          {
+            "result": "Nothing",
+            "chance": "50%",
+            "reaction": "*You threw it. Nobody cared. Awkward. 😶*"
+          }
+        ]
+      },
+      {
+        "option": "Play the Piano",
+        "outcomes": [
+          {
+            "result": "35000 coins",
+            "chance": "50%",
+            "reaction": "*You tickled ivories and wallets. 🎹💰*"
+          },
+          {
+            "result": "Nothing",
+            "chance": "50%",
+            "reaction": "*Your tune killed the vibe. Silence. 🎶😶*"
+          }
+        ]
+      },
+      {
+        "option": "Gamble",
+        "outcomes": [
+          {
+            "result": "35000 coins",
+            "chance": "50%",
+            "reaction": "*Lady Luck loves you tonight. 🎲💰*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "50%",
+            "reaction": "*Dealer took your chips and dreams. 😱*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "scenario": "You're dying of thirst. Where do you want to get water?",
+    "choices": [
+      {
+        "option": "Old Creek",
+        "outcomes": [
+          {
+            "result": "20000 coins",
+            "chance": "50%",
+            "reaction": "*Fresh water, fresher coins. 💧💸*"
+          },
+          {
+            "result": "Cowboy Hat",
+            "chance": "50%",
+            "reaction": "*Stylin’ hydration hat acquired. 🤠*"
+          }
+        ]
+      },
+      {
+        "option": "Cactus",
+        "outcomes": [
+          {
+            "result": "25000 coins",
+            "chance": "50%",
+            "reaction": "*Prickly but profitable. 🌵💰*"
+          },
+          {
+            "result": "Cactus",
+            "chance": "50%",
+            "reaction": "*New prickly pet? That’s hot. 🌵*"
+          }
+        ]
+      },
+      {
+        "option": "Water Fountain",
+        "outcomes": [
+          {
+            "result": "25000 coins",
+            "chance": "33.3%",
+            "reaction": "*Fountain of wealth. 🤑*"
+          },
+          {
+            "result": "Nothing",
+            "chance": "33.3%",
+            "reaction": "*Tap water is boring. 🚰*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*Refreshed AF and ready to roll. ✅*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "scenario": "WANTED—Who will you take down?",
+    "choices": [
+      {
+        "option": "Billy Bob Jr",
+        "outcomes": [
+          {
+            "result": "70000 coins",
+            "chance": "50%",
+            "reaction": "*Bounty hunting pays off! 💰*"
+          },
+          {
+            "result": "Gold Nugget",
+            "chance": "50%",
+            "reaction": "*Pure gold, pure flex. ✨*"
+          }
+        ]
+      },
+      {
+        "option": "Jesse James",
+        "outcomes": [
+          {
+            "result": "55000 coins",
+            "chance": "50%",
+            "reaction": "*Jesse dropped the bag. 💼💵*"
+          },
+          {
+            "result": "Revolver",
+            "chance": "50%",
+            "reaction": "*New piece, who dis? 🔫*"
+          }
+        ]
+      },
+      {
+        "option": "Davy Jones",
+        "outcomes": [
+          {
+            "result": "90000 coins",
+            "chance": "33.3%",
+            "reaction": "*That loot was underwater. 🌊💰*"
+          },
+          {
+            "result": "Treasure Map",
+            "chance": "33.3%",
+            "reaction": "*X marks your next horizon. 🗺️*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*You ghosted Davy like it was nothing. 👻*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "scenario": "Catch one of them!",
+    "choices": [
+      {
+        "option": "Catch One",
+        "outcomes": [
+          {
+            "result": "Lasso",
+            "chance": "25%",
+            "reaction": "*Rodeo time! 🤠*"
+          },
+          {
+            "result": "10000 coins",
+            "chance": "25%",
+            "reaction": "*Small bag, big flex. 👜*"
+          },
+          {
+            "result": "Revolver",
+            "chance": "25%",
+            "reaction": "*Armed and ready. 🔥*"
+          },
+          {
+            "result": "Gold Nugget",
+            "chance": "25%",
+            "reaction": "*Geologist’s dream. 🪙*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "scenario": "Your horse sees a snake and throws you off. What do you do?",
+    "choices": [
+      {
+        "option": "Find a New Horse",
+        "outcomes": [
+          {
+            "result": "Lasso",
+            "chance": "33.3%",
+            "reaction": "*New ride, who dis? 🐴*"
+          },
+          {
+            "result": "Nothing",
+            "chance": "33.3%",
+            "reaction": "*Found no horse. Sad trombone. 🎺*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*You reported all safe. ✅*"
+          }
+        ]
+      },
+      {
+        "option": "Kill the Snake",
+        "outcomes": [
+          {
+            "result": "60000 coins",
+            "chance": "33.3%",
+            "reaction": "*Snake bit, coins spit. 💰*"
+          },
+          {
+            "result": "Tumbleweed",
+            "chance": "33.3%",
+            "reaction": "*You got dust. Literally. 🌪️*"
+          },
+          {
+            "result": "Lose everything",
+            "chance": "33.3%",
+            "reaction": "*Snake strikes back, you lost the lot. 💀*"
+          }
+        ]
+      },
+      {
+        "option": "Report to Sheriff",
+        "outcomes": [
+          {
+            "result": "Nothing",
+            "chance": "33.3%",
+            "reaction": "*Sheriff was on break. 🛑*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*Sheriff says you're good. ✅*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*Sheriff took your stash as fees. 😱*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "scenario": "You found a stray horse. What do you want to do?",
+    "choices": [
+      {
+        "option": "Tame",
+        "outcomes": [
+          {
+            "result": "Pet Saddle",
+            "chance": "33.3%",
+            "reaction": "*Cushy ride secured. 🐎*"
+          },
+          {
+            "result": "Lose everything",
+            "chance": "33.3%",
+            "reaction": "*Horse ran off with your stuff. 💀*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*You petted nothing. Saddening. 😐*"
+          }
+        ]
+      },
+      {
+        "option": "Ignore",
+        "outcomes": [
+          {
+            "result": "Nothing",
+            "chance": "33.3%",
+            "reaction": "*You walked past like it wasn't there. 😑*"
+          },
+          {
+            "result": "Lose everything",
+            "chance": "33.3%",
+            "reaction": "*Horse wasn't impressed. 💀*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*Your loot got snagged by the stray. 😱*"
+          }
+        ]
+      },
+      {
+        "option": "Feed",
+        "outcomes": [
+          {
+            "result": "25000 coins",
+            "chance": "33.3%",
+            "reaction": "*Horse loves you—and sponsors you. 💰*"
+          },
+          {
+            "result": "Cactus",
+            "chance": "33.3%",
+            "reaction": "*You gave it a prickly treat. 🌵*"
+          },
+          {
+            "result": "Nothing",
+            "chance": "33.3%",
+            "reaction": "*Horse wasn't hungry. Oops. 🐴*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "scenario": "You find an abandoned mine. What do you want to do?",
+    "choices": [
+      {
+        "option": "Explore",
+        "outcomes": [
+          {
+            "result": "100000 coins",
+            "chance": "33.3%",
+            "reaction": "*Minin’ pays the bills! 💰*"
+          },
+          {
+            "result": "Gold Nugget",
+            "chance": "33.3%",
+            "reaction": "*You struck the motherload. ✨*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*The mine collapsed on your loot. 😱*"
+          }
+        ]
+      },
+      {
+        "option": "Ignore",
+        "outcomes": [
+          {
+            "result": "Nothing",
+            "chance": "33.3%",
+            "reaction": "*You ghosted the mine. Boring. 😐*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*You walked away unscathed. ✅*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*A tumbleweed blew your gear away. 🌪️*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "scenario": "You find a dank cellar with an old wooden box.",
+    "choices": [
+      {
+        "option": "Grab it",
+        "outcomes": [
+          {
+            "result": "Old box",
+            "chance": "33.3%",
+            "reaction": "*Mystery chest? Score! 📦*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*The box was trapped. You lost gear. 😱*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*You grabbed and left. No fuss. ✅*"
+          }
+        ]
+      },
+      {
+        "option": "Ignore it",
+        "outcomes": [
+          {
+            "result": "Nothing",
+            "chance": "33.3%",
+            "reaction": "*You passed by. Nothing to see. 👀*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*A rat stole something from your pack. 🐀*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*You dodged a bullet. Literally. ✅*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "scenario": "You bump into someone near the horse stables. They challenge you to a duel!",
+    "choices": [
+      {
+        "option": "Let's duel",
+        "outcomes": [
+          {
+            "result": "20000 coins",
+            "chance": "33.3%",
+            "reaction": "*Bullseye! You won the bet. 💰*"
+          },
+          {
+            "result": "Revolver",
+            "chance": "33.3%",
+            "reaction": "*New heat in your holster. 🔫*"
+          },
+          {
+            "result": "Lose everything",
+            "chance": "33.3%",
+            "reaction": "*You got outdrawn. Ouch. 💀*"
+          }
+        ]
+      },
+      {
+        "option": "Run away",
+        "outcomes": [
+          {
+            "result": "Nothing",
+            "chance": "33.3%",
+            "reaction": "*You bolted. Nobody cared. 🏃*"
+          },
+          {
+            "result": "Lose everything",
+            "chance": "33.3%",
+            "reaction": "*You tripped and lost your stash. 💀*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*Your bag got snagged. 😱*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "scenario": "A lady next to a broken-down wagon is yelling for help.",
+    "choices": [
+      {
+        "option": "Help her",
+        "outcomes": [
+          {
+            "result": "50000 coins",
+            "chance": "33.3%",
+            "reaction": "*Good deed pays off. 💰*"
+          },
+          {
+            "result": "Boots",
+            "chance": "33.3%",
+            "reaction": "*Stylish new kicks. 👢*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*You rode off into the sunset. ✅*"
+          }
+        ]
+      },
+      {
+        "option": "Ignore her",
+        "outcomes": [
+          {
+            "result": "Nothing",
+            "chance": "33.3%",
+            "reaction": "*You kept walking. Heartless. 😈*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*She cursed you. Your loot vanished. 😱*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*You got away clean. ✅*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "scenario": "You come across a saloon with a poker game going on inside.",
+    "choices": [
+      {
+        "option": "Join",
+        "outcomes": [
+          {
+            "result": "Stack of Cash",
+            "chance": "33.3%",
+            "reaction": "*Royal flush, baby! 💵*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*Dealer took your chips and your dreams. 😱*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*You folded at the right time. ✅*"
+          }
+        ]
+      },
+      {
+        "option": "Ignore",
+        "outcomes": [
+          {
+            "result": "Nothing",
+            "chance": "33.3%",
+            "reaction": "*You passed the game. Boring. 😐*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*A stray card snagged your coin pouch. 😱*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*You walked away unshaken. ✅*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "scenario": "You're riding on your horse and you get ambushed. What do you do?",
+    "choices": [
+      {
+        "option": "Fight back",
+        "outcomes": [
+          {
+            "result": "100000 coins",
+            "chance": "33.3%",
+            "reaction": "*You fought like a legend. 💰*"
+          },
+          {
+            "result": "Lose everything",
+            "chance": "33.3%",
+            "reaction": "*You got overwhelmed. 💀*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*Your pack got looted. 😱*"
+          }
+        ]
+      },
+      {
+        "option": "Run away",
+        "outcomes": [
+          {
+            "result": "Nothing",
+            "chance": "33.3%",
+            "reaction": "*You sprinted off. Hat remains. 🎩*"
+          },
+          {
+            "result": "Lose everything",
+            "chance": "33.3%",
+            "reaction": "*You tripped. Everything’s gone. 💀*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*They grabbed your bag. 😱*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "scenario": "You get on a train and some bandits decide to rob it. What do you do?",
+    "choices": [
+      {
+        "option": "Don't hurt me",
+        "outcomes": [
+          {
+            "result": "100000 coins",
+            "chance": "33.3%",
+            "reaction": "*They let you live—and leave rich. 💰*"
+          },
+          {
+            "result": "Cowboy Hat",
+            "chance": "33.3%",
+            "reaction": "*They thought you looked cool. 🤠*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*You rolled through unscathed. ✅*"
+          }
+        ]
+      },
+      {
+        "option": "Fight back",
+        "outcomes": [
+          {
+            "result": "150000 coins",
+            "chance": "33.3%",
+            "reaction": "*You outgunned the robbers. 💥💰*"
+          },
+          {
+            "result": "Treasure Map",
+            "chance": "33.3%",
+            "reaction": "*They dropped a map in panic. 🗺️*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*You walked off like a hero. ✅*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "scenario": "Someone is getting ambushed by bandits!",
+    "choices": [
+      {
+        "option": "Save Them",
+        "outcomes": [
+          {
+            "result": "75000 coins",
+            "chance": "20%",
+            "reaction": "*You flex your hero badge. 💸*"
+          },
+          {
+            "result": "Pet Saddle",
+            "chance": "20%",
+            "reaction": "*You rescued a furry friend. 🐾*"
+          },
+          {
+            "result": "Lose everything",
+            "chance": "20%",
+            "reaction": "*You got swarmed. 💀*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "20%",
+            "reaction": "*Your gear took a beating. 😱*"
+          },
+          {
+            "result": "End safely",
+            "chance": "20%",
+            "reaction": "*You saved the day and walked on. ✅*"
+          }
+        ]
+      },
+      {
+        "option": "Ignore Them",
+        "outcomes": [
+          {
+            "result": "Lose everything",
+            "chance": "50%",
+            "reaction": "*You left them—and your stuff—behind. 💀*"
+          },
+          {
+            "result": "Lose inventory item & end safely",
+            "chance": "50%",
+            "reaction": "*You streaked off with half your stash. 😱✅*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "scenario": "A snake is blocking your path. What do you want to do?",
+    "choices": [
+      {
+        "option": "Chase",
+        "outcomes": [
+          {
+            "result": "Snake pet",
+            "chance": "33.3%",
+            "reaction": "*You literally tamed a snake. ????*"
+          },
+          {
+            "result": "Lose everything",
+            "chance": "33.3%",
+            "reaction": "*The snake bit your wallet. 💀*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*You dropped your pack fleeing. 😱*"
+          }
+        ]
+      },
+      {
+        "option": "Wait",
+        "outcomes": [
+          {
+            "result": "Nothing",
+            "chance": "33.3%",
+            "reaction": "*You waited. The snake judged you. 🐍*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*It slithered by and snagged a pouch. 😱*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*It crawled away. You lived. ✅*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "scenario": "A stranger challenges you to a quick draw. What do you do?",
+    "choices": [
+      {
+        "option": "Accept",
+        "outcomes": [
+          {
+            "result": "5 skin frags + Buckshot Ammo skin",
+            "chance": "33.3%",
+            "reaction": "*Your style just got extra. 🔫✨*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*They shot your bag instead. 😱*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*They respected your peace. ✅*"
+          }
+        ]
+      },
+      {
+        "option": "Decline",
+        "outcomes": [
+          {
+            "result": "Nothing",
+            "chance": "33.3%",
+            "reaction": "*You backed out. So lame. 😶*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*They snatched a pouch in your sleep. 😱*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*You walked off with pride. ✅*"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "scenario": "Someone on the trail is lost, asking you for directions.",
+    "choices": [
+      {
+        "option": "Help Them",
+        "outcomes": [
+          {
+            "result": "25000 coins",
+            "chance": "33.3%",
+            "reaction": "*Kindness is profitable. 💰*"
+          },
+          {
+            "result": "Kind Soul Title",
+            "chance": "33.3%",
+            "reaction": "*You earned a new rep: Nice. 🏅*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*They guided you back anyway. ✅*"
+          }
+        ]
+      },
+      {
+        "option": "Ignore Them",
+        "outcomes": [
+          {
+            "result": "Tumbleweed",
+            "chance": "33.3%",
+            "reaction": "*You looked away. They looked for grass. 🌾*"
+          },
+          {
+            "result": "Lose inventory item",
+            "chance": "33.3%",
+            "reaction": "*They cursed you. Your things vanished. 😱*"
+          },
+          {
+            "result": "End safely",
+            "chance": "33.3%",
+            "reaction": "*You walked on without a hitch. ✅*"
+          }
+        ]
+      }
+    ]
+  }
+]

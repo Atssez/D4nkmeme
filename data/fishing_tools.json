@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Bare Hands",
+    "emoji": "👐",
+    "description": "Your trusty fingers. Not very effective, but better than nothing.",
+    "rarity": "Common",
+    "image": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshtoolimg\\bare_hands.png",
+    "note": "Default tool. No bonuses.",
+    "key": "bare_hands"
+  },
+  {
+    "name": "Fishing Rod",
+    "emoji": "🎣",
+    "description": "A basic rod for catching small fish. Reliable and easy to use.",
+    "rarity": "Uncommon",
+    "image": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshtoolimg\\fishing_rod.png",
+    "note": "Slightly increased catch rate for common fish.",
+    "key": "fishing_rod"
+  },
+  {
+    "name": "Harpoon",
+    "emoji": "🗡️",
+    "description": "Used for spearing larger fish. Requires skill and timing.",
+    "rarity": "Rare",
+    "image": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshtoolimg\\harpoon.png",
+    "note": "Higher chance to catch rare fish. May miss small ones.",
+    "key": "harpoon"
+  },
+  {
+    "name": "Fishing Net",
+    "emoji": "🪢",
+    "description": "Catches multiple fish at once. Great for bulk fishing.",
+    "rarity": "Epic",
+    "image": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshtoolimg\\fishing_net.png",
+    "note": "Can catch 2–3 fish per cast. Lower chance for rare fish.",
+    "key": "fishing_net"
+  },
+  {
+    "name": "Dynamite",
+    "emoji": "🧨",
+    "description": "Explosive fishing. Risky but effective. May scare off NPCs.",
+    "rarity": "Legendary",
+    "image": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshtoolimg\\dynamite.png",
+    "note": "High chance for rare fish. May reduce NPC mood.",
+    "key": "dynamite"
+  },
+  {
+    "name": "Fishing Bow",
+    "emoji": "🏹",
+    "description": "A ranged tool for precision fishing. Stylish and silent.",
+    "rarity": "Mythic",
+    "image": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshtoolimg\\fishing_bow.png",
+    "note": "Increased chance for epic and mythic fish. Silent cast.",
+    "key": "fishing_bow"
+  },
+  {
+    "name": "Magnet Fishing Rope",
+    "emoji": "🧲",
+    "description": "Used to pull metallic treasures from the water. Not for fish.",
+    "rarity": "Godly",
+    "image": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshtoolimg\\magnet_fishing_rope.png",
+    "note": "Can retrieve coins, gear, and rare loot. No fish caught.",
+    "key": "magnet_fishing_rope"
+  }
+]

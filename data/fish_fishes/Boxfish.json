@@ -1,0 +1,10 @@
+{
+    "name": "Boxfish",
+    "price": 5000,
+    "location": [
+        "Abstraction Bay",
+        "Vertigo Beach"
+    ],
+    "rarity": "Uncommon",
+    "link": "C:\\Users\\Atsez\\Desktop\\TelegramBot\\data\\fish_pic\\Boxfish.png"
+}

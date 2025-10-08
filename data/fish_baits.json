@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Vintage Bait",
+        "description": "Your grandfather\u2019s grandfather probably used this bait, and the fish still love it. Can\u2019t go wrong with a classic.",
+        "durability": "15 uses",
+        "notes": "Using Vintage Bait removes items from the loot table, only allowing you to catch creatures. Resembles the Legacy Fishing Bait.",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshbaitimg\\Vintage_Bait.png"
+    },
+    {
+        "name": "Weighted Bait",
+        "description": "I like big fishes and I cannot lie, all the other fisherman cannot deny, when you drop a weighted bait, and the board starts to shake, you get PUMPED!",
+        "durability": "15 uses",
+        "notes": "Increases the average weight of catches.",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshbaitimg\\Weighted_Bait.png"
+    },
+    {
+        "name": "Golden Bait",
+        "description": "Money, gold, it\u2019s just throw gold in the water in a desperate attempt for high quality fish. No big deal.",
+        "durability": "10 uses",
+        "notes": "Increases the chance to catch a high-quality fish. Is used when a high-quality fish is caught.",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshbaitimg\\Golden_Bait.png"
+    },
+    {
+        "name": "Money Bait",
+        "description": "You can never have enough money, unless the IRS is asking\u2026 in which case, what money?",
+        "durability": "15 uses",
+        "notes": "Sells your creatures instantly instead of sending them to your bucket, for both coins and tokens. Used when a creature is caught.",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshbaitimg\\Money_Bait.png"
+    },
+    {
+        "name": "Lucky Bait",
+        "description": "Normally people put lucky charms in their pockets but this works too. Anything for a luck boost, am I right?",
+        "durability": "6 uses",
+        "notes": "Increases luck when fishing, so that you can get rarer variants. Used when any creature is caught, not used when finding bait.",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshbaitimg\\Lucky_Bait.png"
+    },
+    {
+        "name": "Timely Bait",
+        "description": "A fish is never late or early, but precisely on time.",
+        "durability": "3 uses",
+        "notes": "Each fish has specific UTC hours when they can be caught, but using this bait removes that limit. Creatures that need a specific time can bypass this.",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshbaitimg\\Timely_Bait.png"
+    },
+    {
+        "name": "Magnet Bait",
+        "description": "Who needs fish when you can collect treasure?",
+        "durability": "5 uses",
+        "notes": "Removes creatures from the item pool so you can only get items.",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshbaitimg\\Magnet_Bait.png"
+    },
+    {
+        "name": "XP Bait",
+        "description": "Nothing tastes better than leveling up!",
+        "durability": "12 uses",
+        "notes": "Gives 3x season pass XP on any catch and gives 2x points for regular Dank Member levels. Used when any season pass XP is gained from fishing.",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshbaitimg\\XP_Bait.png"
+    },
+    {
+        "name": "Eyeball Bait",
+        "description": "This bait only has an eye for the really valuable fish. Wait... why is it looking at me like that?",
+        "durability": "3 uses",
+        "notes": "Heavily increases the odds of catching a unique variant or chroma fish.",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshbaitimg\\Eyeball_Bait.png"
+    },
+    {
+        "name": "Ghastly Bait",
+        "description": "Halloween isn't just a season, it's a way of life! If this bait doesn't lure some spooky stuff your way, nothing will.",
+        "durability": "5 uses",
+        "notes": "Adds a chance to get Halloween-themed items while fishing! Used when a Halloween item is caught.",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshbaitimg\\Ghastly_Bait.png"
+    },
+    {
+        "name": "Deadly Bait",
+        "description": "This was used to catch a monster. Now, the monster uses it.",
+        "durability": "1 use",
+        "notes": "Increases the chances of catching bosses by 2x and high-quality bosses by 2x. (This is still a painfully low amount)",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshbaitimg\\Deadly_Bait.png"
+    },
+    {
+        "name": "Turkey Bait",
+        "description": "No one tell Momma we used her cooking for bait, or the Thanksgiving fish you catch won't be the only thing getting filleted!",
+        "durability": "5 uses",
+        "notes": "Allows you to catch the limited time Turkeyfish creature which gives you more XP and can be found anywhere.",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshbaitimg\\Turkey_Bait.png"
+    },
+    {
+        "name": "Gift Bait",
+        "description": "I'm just glad I got the Naboo Swamp and Gungan Sub Lego set I asked for.",
+        "durability": "5 uses",
+        "notes": "Similar to Ghastly Bait, but allows a chance to get winter-themed fish when caught. Used when a Christmas fish is caught. Winter items, like Snowballs, can also be caught with this bait.",
+        "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\data\\fshbaitimg\\Gift_Bait.png"
+    }
+]
