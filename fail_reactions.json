@@ -1,0 +1,26 @@
+FAIL_REACTIONS = [
+    {
+        "text": "🚓 You tried robbing with 2 brain cells and got arrested. L + ratio.",
+        "gif": "https://media.tenor.com/Nu77sMjXsX0AAAAM/pepe-why-pepe.gif"
+    },
+    {
+        "text": "🧠 You tripped over your own shoelaces while escaping. The cops laughed.",
+        "gif": "https://media.tenor.com/rfMlTRYAD30AAAAM/pepe.gif"
+    },
+    {
+        "text": "🛌 You fell asleep mid-heist. The target tucked you in and called the police.",
+        "gif": "https://media.tenor.com/pfIlmw-A130AAAAM/bedge-pepe-sleep.gif"
+    },
+    {
+        "text": "🧃 You got distracted by a juice box and forgot to rob. Smooth.",
+        "gif": "https://i.pinimg.com/originals/f2/6a/ec/f26aec0a6bfdb3f1e23220539408556f.gif"
+    },
+    {
+        "text": "🎯 You aimed for their wallet and hit their grandma. She hit back.",
+        "gif": "https://media.tenor.com/7Ia1siV675AAAAAM/crying-running.gif"
+    },
+    {
+        "text": "🧠 You tripped over your own shoelaces while escaping. The cops laughed.",
+        "gif": "https://pbs.twimg.com/media/E5WarL3VUAE7Jv0.jpg"
+    }
+]

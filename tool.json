@@ -1,0 +1,665 @@
+[
+  {
+    "id": 86,
+    "itemKey": "adventureticket",
+    "name": "Adventure Ticket",
+    "type": "Tool",
+    "value": 150000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Adventure time, grab your ticket!",
+    "longDescription": "This ticket is used as an entry fee when you start the adventure command.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\adventureticket.png"
+  },
+  {
+    "id": 225,
+    "itemKey": "beanseeds",
+    "name": "Bean Seeds",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "If beans make you fart, does the thing that makes beans make you fart too? Someone test this!",
+    "longDescription": "This item can be planted using the farm command to produce crops.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\beanseeds.png"
+  },
+  {
+    "id": 148,
+    "itemKey": "sand",
+    "name": "Box of Sand",
+    "type": "Tool",
+    "value": 5000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "How many of you pee'd in the sandbox as children? Well this item takes from that exact sandbox.",
+    "longDescription": "Throw a box of sand in someone's eyes to prevent them from robbing anyone for 30 minutes. There is a small chance the sand will blow back in your own face and give you the negative effects.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\sand.png"
+  },
+  {
+    "id": 211,
+    "itemKey": "broccoliseeds",
+    "name": "Broccoli Seeds",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Place them somewhere dark and damp and watch them grow to be edible. You just ate damp and old seeds.",
+    "longDescription": "This item can be planted using the farm command to produce crops.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\broccoliseeds.png"
+  },
+  {
+    "id": 114,
+    "itemKey": "camera",
+    "name": "Camera",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Can be used to stream both on Twitch AND onlyfans!",
+    "longDescription": "This item helps you with the amount of viewers watching your streams.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\camera.png"
+  },
+  {
+    "id": 70,
+    "itemKey": "candycane",
+    "name": "Candy Cane",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "I get that it is candy, but how is it a cane? It is way too small to use to walk.",
+    "longDescription": "Using this item gives nothing of value.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\candycane.png"
+  },
+  {
+    "id": 210,
+    "itemKey": "carrotseeds",
+    "name": "Carrot Seeds",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Plant these to grow cucumbers that are orange and help you see in the dark.",
+    "longDescription": "This item can be planted using the farm command to produce crops.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\carrotseeds.png"
+  },
+  {
+    "id": 146,
+    "itemKey": "phone",
+    "name": "Cell Phone",
+    "type": "Tool",
+    "value": 2000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": true,
+      "REUSABLE": true,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Back in my day these flipped open and shut. Wait they brought that back?",
+    "longDescription": "Use your cell phone to text your friends via the notifications system, or ring the police in the case of a bankrobbery. Misusing it (such as dialing police when there's no trouble) may cost you money.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\phone.png"
+  },
+  {
+    "id": 156,
+    "itemKey": "coinbomb",
+    "name": "Coin Bomb",
+    "type": "Tool",
+    "value": 50000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "This is not safe to take on planes. Not because it's a weapon, but because the pilots would leave the cockpit to partake.",
+    "longDescription": "Using this item starts a coinbomb giveaway where users can join and earn a few thousand coins.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\coinbomb.png"
+  },
+  {
+    "id": 208,
+    "itemKey": "cornseeds",
+    "name": "Corn Seeds",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "Corn cobs? Rare? Let's make an entire feature around growing more.",
+    "longDescription": "This item can be planted using the farm command to produce crops.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\cornseeds.png"
+  },
+  {
+    "id": 43,
+    "itemKey": "ducttape",
+    "name": "Duct Tape",
+    "type": "Tool",
+    "value": 700000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "It is not suspicious to buy this from the store UNLESS you buy it in bulk and wear a dark hoodie.",
+    "longDescription": "This item can be used to craft things with the craft command.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\ducttape.png"
+  },
+  {
+    "id": 87,
+    "itemKey": "empoweredfartbottle",
+    "name": "Empowered Fart Bottle",
+    "type": "Tool",
+    "value": 500000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "This is like a fart bottle but like, without the downsides. Crazy item design right?",
+    "longDescription": "Use this item to throw at a user to prevent them from running commands for a while, you cannot fail.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\empoweredfartbottle.png"
+  },
+  {
+    "id": 151,
+    "itemKey": "fakeid",
+    "name": "Fake ID",
+    "type": "Tool",
+    "value": 20000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "McLovin would be proud of the quality of this expensive and very real ID.",
+    "longDescription": "Using this item hides you from the robbers wishlist and gives you a random fake name on leaderboards.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\fakeid.png"
+  },
+  {
+    "id": 206,
+    "itemKey": "fertilizerbag",
+    "name": "Fertilizer Bag",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "\"Fertilize me\", now without Ammonium nitrate because that's not good",
+    "longDescription": "This tool can be used with the farm command to fertilize crops and shorten the time needed for plants to grow. Crops can be fertilized multiple times.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\fertilizerbag.png"
+  },
+  {
+    "id": 154,
+    "itemKey": "fishingpole",
+    "name": "Fishing Pole",
+    "type": "Tool",
+    "value": 35000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "It's no Bassmaster 2000 but it should do the job.",
+    "longDescription": "This item is required to access the fish command.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\fishingpole.png"
+  },
+  {
+    "id": 118,
+    "itemKey": "greenscreen",
+    "name": "Green Screen",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Hide the mess behind you so people don't know you're in shambles.",
+    "longDescription": "This item increases your revenue from streaming.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\greenscreen.png"
+  },
+  {
+    "id": 119,
+    "itemKey": "headphones",
+    "name": "Headphones",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Open back is the best quality you'll find in headphones.",
+    "longDescription": "This item increases your max idle time.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\headphones.png"
+  },
+  {
+    "id": 205,
+    "itemKey": "hoe",
+    "name": "Hoe",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Ain't nobody getting between me and my bros, bros before uh... nevermind.",
+    "longDescription": "This tool can be used with the farm command to till dirt before planting or to clean up after a harvest.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\hoe.png"
+  },
+  {
+    "id": 166,
+    "itemKey": "huntingrifle",
+    "name": "Hunting Rifle",
+    "type": "Tool",
+    "value": 35000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Bambi is VERY upset with you. Put it down!",
+    "longDescription": "This item is required to access the hunt command.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\huntingrifle.png"
+  },
+  {
+    "id": 113,
+    "itemKey": "keyboard",
+    "name": "Keyboard",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "Why are they called keys? Do they unlock the ability to type?",
+    "longDescription": "This item is required to access the stream command.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\keyboard.png"
+  },
+  {
+    "id": 150,
+    "itemKey": "landmine",
+    "name": "Landmine",
+    "type": "Tool",
+    "value": 20000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Who would have thought a game with pets would also involve landmines.",
+    "longDescription": "Once active, if someone tries to steal from you, there's a 50% chance they will die from blowing up. Lasts 24 hours.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\landmine.png"
+  },
+  {
+    "id": 115,
+    "itemKey": "microphone",
+    "name": "Microphone",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Honestly the most important aspect of a streamer's toolkit.",
+    "longDescription": "This item helps keep your stream online for longer by lowering the chance for it to randomly end while interacting.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\microphone.png"
+  },
+  {
+    "id": 112,
+    "itemKey": "mouse",
+    "name": "Mouse",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "Why is it called a mouse?",
+    "longDescription": "This item is required to access the stream command.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\mouse.png"
+  },
+  {
+    "id": 167,
+    "itemKey": "padlock",
+    "name": "Padlock",
+    "type": "Tool",
+    "value": 8000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "The lock picking lawyer would make quick work of this I'm ngl to you.",
+    "longDescription": "Use this padlock to lock your wallet from robbers. It is a one time use item. It can be broken when someone tries to steal from you as well.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\padlock.png"
+  },
+  {
+    "id": 217,
+    "itemKey": "petfood",
+    "name": "Pet Food",
+    "type": "Tool",
+    "value": 50000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Beggin strips taste like actual bacon and I will eat them regularly.",
+    "longDescription": "This item can be used to feed your pets. If you have one in your inventory, feeding with the /pets care command will take this item instead of coins. Using this fills the entire hunger bar and gives much more XP.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\petfood.png"
+  },
+  {
+    "id": 209,
+    "itemKey": "potatoseeds",
+    "name": "Potato Seeds",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "Potato seeds are literally just... potatoes. What if we grew humans by planting humans. Wait, that is a zombie.",
+    "longDescription": "This item can be planted using the farm command to produce crops. Try planting these in patterns with empty tilled and watered spaces nearby, and maybe you will discover a secret way to make new kinds of seeds appear and grow!",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\potatoseeds.png"
+  },
+  {
+    "id": 117,
+    "itemKey": "ringlight",
+    "name": "Ring Light",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "ElGato sells these, but you can make them yourself by taking an led panel and punching out the middle.",
+    "longDescription": "This item lowers the minimum time between stream interactions.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\ringlight.png"
+  },
+  {
+    "id": 159,
+    "itemKey": "wishlist",
+    "name": "Robbers Wishlist",
+    "type": "Tool",
+    "value": 350000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Who would leave this laying around? It's such easy evidence against them...",
+    "longDescription": "This item when used gives a list of users that aren't passive and do not have a fake ID on. Basically, anyone who is able to be robbed!",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\wishlist.png"
+  },
+  {
+    "id": 231,
+    "itemKey": "rustymachine",
+    "name": "Rusty Machine",
+    "type": "Tool",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": true,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "Pepe stole this rusty piece of junk from some abandoned farming museum and insists we let you use it. Don't ask us how it works.",
+    "longDescription": "Using this item gives you a chance to convert your excess seeds into something better. Warning, the machine often malfunctions, and good results are not guaranteed.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\rustymachine.png"
+  },
+  {
+    "id": 153,
+    "itemKey": "shovel",
+    "name": "Shovel",
+    "type": "Tool",
+    "value": 35000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Hitting things with a shovel usually fixes it.",
+    "longDescription": "This item is required to access the dig command.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\shovel.png"
+  },
+  {
+    "id": 75,
+    "itemKey": "snowball",
+    "name": "Snowball",
+    "type": "Tool",
+    "value": 25000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Snowballs are not scary until you freeze them. This one is frozen.",
+    "longDescription": "Using this on a user will prevent them from doing negative actions to you for a few minutes.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\snowball.png"
+  },
+  {
+    "id": 116,
+    "itemKey": "soundcard",
+    "name": "Sound Card",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Sound cards are kinda overrated irl.",
+    "longDescription": "This item helps your odds of getting other streaming items.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\soundcard.png"
+  },
+  {
+    "id": 137,
+    "itemKey": "stonkmachine",
+    "name": "Stonk Machine",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": true,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "This is a made up machine. It does not exist in real life. Do not search for this irl.",
+    "longDescription": "Use this machine to try and earn some coins from stonk investment. Warning, there is a 10% chance to lose 10% of your wallet from a bad investment! Found from the day trader job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\stonkmachine.png"
+  },
+  {
+    "id": 125,
+    "itemKey": "tipjar",
+    "name": "Tip Jar",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Why do they slide the tip jar at me \"accidentally\" every time as if I wasn't going to tip.",
+    "longDescription": "Use this item to get some random rewards every hour. Found from the twitch streamer job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\tipjar.png"
+  },
+  {
+    "id": 122,
+    "itemKey": "diaper",
+    "name": "Used Diaper",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "This is used, but seems like too much for a child. Who wore this?",
+    "longDescription": "Throw this used diaper at someone to prevent them from joining or starting a heist for 12 hours. Found from the house wife job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\diaper.png"
+  },
+  {
+    "id": 199,
+    "itemKey": "voodoodoll",
+    "name": "Voodoo Doll",
+    "type": "Tool",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "I keep feeling a stabbing feeling in heart. Is it a heart attack or a voodoo doll? Probably just the doll.",
+    "longDescription": "Using this on someone will give them bad luck in grind commands for 6 hours. Bad luck is like the opposite of the horseshoe but more potent.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\voodoodoll.png"
+  },
+  {
+    "id": 214,
+    "itemKey": "waterbucket",
+    "name": "Water Bucket",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "It is possible the dEvElOpEr that created this item plays the hit game Minecraft",
+    "longDescription": "This tool can be used with the farm command to fill one tile completely with water, helping keep the surrounding tiles watered and cleaning the area after a harvest. When the water gets dirty it will no longer work and the space will have to dry before it can be used again.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\waterbucket.png"
+  },
+  {
+    "id": 207,
+    "itemKey": "wateringcan",
+    "name": "Watering Can",
+    "type": "Tool",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Watering can? I sure can water with the watering can. Can I water the can first?",
+    "longDescription": "This tool can be used with the farm command to water tilled tiles before planting.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\wateringcan.png"
+  },
+  {
+    "id": 226,
+    "itemKey": "watermelonseeds",
+    "name": "Watermelon Seeds",
+    "type": "Tool",
+    "value": 80000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "Someone told me that if I eat these watermelon will grow in my stomach. Can confirm!",
+    "longDescription": "This item can be planted using the farm command to produce crops.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\watermelonseeds.png"
+  }
+]

@@ -1,0 +1,139 @@
+{    "useables": [
+        {
+      "id": 152,
+      "itemKey": "alcohol",
+      "name": "Alcohol",
+      "type": "Power-up",
+      "value": 20000,
+      "flags": {
+        "CONSUMABLE": true,
+        "PURCHASEABLE": false,
+        "REUSABLE": false,
+        "TRANSFERABLE": true
+      },
+      "rarity": "Common",
+      "description": "This is the cheap stuff. Not quite Bud Lite, but similar.",
+      "longDescription": "Drink a bottle of alcohol, and have the potential to gain a slight luck boost that will grant you better luck in stealing from others. However, you become more susceptible to being stolen from! There is also a 10% chance you will die from alcohol poisoning.",
+      "use": "it gives 15% more chance for successful reobbery but others have 15% successfull robbery chance against the user"
+    },
+    {
+      "id": 132,
+      "itemKey": "ammo",
+      "name": "Ammo",
+      "type": "Power-up",
+      "value": 100000,
+      "flags": {
+        "CONSUMABLE": true,
+        "PURCHASEABLE": false,
+        "REUSABLE": false,
+        "TRANSFERABLE": true
+      },
+      "rarity": "Rare",
+      "description": "Does this ammo even fit the hunting rifle?",
+      "longDescription": "While this item is active, you cannot find \"nothing\" while hunting. Found from the professional hunter job.",
+      "use": "after use for 1 hour users hunt doesnt fail"
+    },
+    {
+      "id": 59,
+      "itemKey": "banknote",
+      "name": "Bank Note",
+      "type": "Power-up",
+      "value": 150000,
+      "flags": {
+        "CONSUMABLE": true,
+        "PURCHASEABLE": true,
+        "REUSABLE": false,
+        "TRANSFERABLE": true
+      },
+      "rarity": "Common",
+      "description": "Imagine if banks actually had a max amount. Wait, some do? Thanks Obama.",
+      "longDescription": "You can use this item to expand your max bank space.",
+      "use": "adds 2500 coins to the maximum bank amount"
+    },
+    {
+      "id": 140,
+      "itemKey": "whiskey",
+      "name": "Bottle of Whiskey",
+      "type": "Power-up",
+      "value": 100000,
+      "flags": {
+        "CONSUMABLE": true,
+        "PURCHASEABLE": false,
+        "REUSABLE": false,
+        "TRANSFERABLE": true
+      },
+      "rarity": "Rare",
+      "description": "Whiskey and a little coke, daddy likey",
+      "longDescription": "Using this will give you a better chance to steal from people for 15 hours. Found from the bartender job.",
+      "use": "it gives a better chance of successful robbery against the others (10%) for 1 hour"
+    },
+    {
+      "id": 79,
+      "itemKey": "candy",
+      "name": "Candy",
+      "type": "Power-up",
+      "value": 25000,
+      "flags": {
+        "CONSUMABLE": true,
+        "PURCHASEABLE": false,
+        "REUSABLE": false,
+        "TRANSFERABLE": true
+      },
+      "rarity": "Common",
+      "description": "It is not saltwater taffy. Unless...",
+      "longDescription": "Using this item will give a small amount of coins.",
+      "use": "upon use it gives the user 5000 coins and adds it to the users balance"
+    },
+    {
+      "id": 197,
+      "itemKey": "candycorn",
+      "name": "Candy Corn",
+      "type": "Power-up",
+      "value": 1000000,
+      "flags": {
+        "CONSUMABLE": true,
+        "PURCHASEABLE": false,
+        "REUSABLE": false,
+        "TRANSFERABLE": true
+      },
+      "rarity": "Uncommon",
+      "description": "I'm starting to think whoever developed this bot just really likes corn.",
+      "longDescription": "Using this item will give you a level instantly. You can use more than one at once to level in bulk!",
+      "use": "upon /use it gives the user 1 level "
+    },
+    {
+      "id": 81,
+      "itemKey": "cupidsbigtoe",
+      "name": "Cupid's Big Toe",
+      "type": "Power-up",
+      "value": 25000,
+      "flags": {
+        "CONSUMABLE": true,
+        "PURCHASEABLE": false,
+        "REUSABLE": false,
+        "TRANSFERABLE": true
+      },
+      "rarity": "Common",
+      "description": "Cupid lost this in a bet. I took it fair and square, legally of course.",
+      "longDescription": "Applies a multiplier of **69%** for **69 seconds**.",
+      "use": "it gives a 69% boost for coins that are coming from begging and crime for 69 seconds "
+    },
+    {
+      "id": 162,
+      "itemKey": "pizza",
+      "name": "Pizza Slice",
+      "type": "Power-up",
+      "value": 300000,
+      "flags": {
+        "CONSUMABLE": true,
+        "PURCHASEABLE": false,
+        "REUSABLE": false,
+        "TRANSFERABLE": true
+      },
+      "rarity": "Common",
+      "description": "You wanted pineapple chunks on this, we get it. Too bad.",
+      "longDescription": "Using this item will give you a 2.5x XP multi for 30 minutes.",
+      "use": "it gives an xp booster of 2.5x for 30 minutes"
+    }
+]
+}

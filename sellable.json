@@ -1,0 +1,835 @@
+[
+  {
+    "id": 126,
+    "itemKey": "aplus",
+    "name": "A Plus",
+    "type": "Sellable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "The only time I earned this is when I edited it on my professor's pc.",
+    "longDescription": " Found from the teacher job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\aplus.png"
+  },
+  {
+    "id": 233,
+    "itemKey": "ahaspitcherplant",
+    "name": "Aha's Pitcher Plant",
+    "type": "Sellable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "I tried pouring lemonade in the pitcher...",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\ahaspitcherplant.png"
+  },
+  {
+    "id": 11,
+    "itemKey": "ant",
+    "name": "Ant",
+    "type": "Sellable",
+    "value": 1500,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "The movie \"Antz\" is in fact one of the movies of all time.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\ant.png"
+  },
+  {
+    "id": 135,
+    "itemKey": "banhammer",
+    "name": "Ban Hammer",
+    "type": "Sellable",
+    "value": 120000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "Mods swing this hard and fast, which also happens to be the title of my next se-",
+    "longDescription": " Found from the discord mod job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\banhammer.png"
+  },
+  {
+    "id": 130,
+    "itemKey": "beaker",
+    "name": "Beaker of sus fluid",
+    "type": "Sellable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Please do not drink this, I think it came from Craig's room.",
+    "longDescription": " Found from the scientist job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\beaker.png"
+  },
+  {
+    "id": 7,
+    "itemKey": "bean",
+    "name": "Bean",
+    "type": "Sellable",
+    "value": 5000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "A bean that isn't green.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\bean.png"
+  },
+  {
+    "id": 20,
+    "itemKey": "boar",
+    "name": "Boar",
+    "type": "Sellable",
+    "value": 7000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Some people think this item can be a bit boaring.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\boar.png"
+  },
+  {
+    "id": 23,
+    "itemKey": "fish",
+    "name": "Common Fish",
+    "type": "Sellable",
+    "value": 400,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "This fish is pretty common, unlike my ability to come up with good flavor text.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\fish.png"
+  },
+  {
+    "id": 4,
+    "itemKey": "cookie",
+    "name": "Cookie",
+    "type": "Sellable",
+    "value": 250,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "They said don't eat the dough raw, but that will NOT stop me.",
+    "longDescription": "Using this will do nothing of value.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\cookie.png"
+  },
+  {
+    "id": 8,
+    "itemKey": "corncob",
+    "name": "Corncob",
+    "type": "Sellable",
+    "value": 8000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "Corny jokes are the life blood of this bot.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\corncob.png"
+  },
+  {
+    "id": 9,
+    "itemKey": "corndog",
+    "name": "Corndog",
+    "type": "Sellable",
+    "value": 25000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Ok so hear me out man, it's pork or beef wrapped in a cornbread breading. I call it... the CORN DOG! Wait why are dogs involved?",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\corndog.png"
+  },
+  {
+    "id": 19,
+    "itemKey": "deer",
+    "name": "Deer",
+    "type": "Sellable",
+    "value": 5000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Bambi deserved better than this, but man oh man is the jerky gonna be good.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\deer.png"
+  },
+  {
+    "id": 215,
+    "itemKey": "diamond",
+    "name": "Diamond",
+    "type": "Sellable",
+    "value": 50000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Would you rather shine bright like a diamond, or spend 3 of them on a pickaxe. The choice is simple to me.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\diamond.png"
+  },
+  {
+    "id": 21,
+    "itemKey": "dragon",
+    "name": "Dragon",
+    "type": "Sellable",
+    "value": 35000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "In DnD 5e, an adult red dragon is chaotic evil and has a challenge rating of 17. You're telling me someone shot this one with a rifle?",
+    "longDescription": "You can use this item to get a unique pet",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\dragon.png"
+  },
+  {
+    "id": 18,
+    "itemKey": "duck",
+    "name": "Duck",
+    "type": "Sellable",
+    "value": 3000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Ducks lay eggs very similarly edible to chicken eggs. One of my favorite differences are that they can be blue depending on the breed of duck.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\duck.png"
+  },
+  {
+    "id": 121,
+    "itemKey": "ectoplasm",
+    "name": "Ectoplasm",
+    "type": "Sellable",
+    "value": 200000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Ew, ghost gunk. Disgusting. Funky wunky ghosty gunky.",
+    "longDescription": " Found from the ghost job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\ectoplasm.png"
+  },
+  {
+    "id": 25,
+    "itemKey": "exoticfish",
+    "name": "Exotic Fish",
+    "type": "Sellable",
+    "value": 5000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "If this was Minecraft, this fish would be used to feed a pet axolotl",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\exoticfish.png"
+  },
+  {
+    "id": 15,
+    "itemKey": "fossil",
+    "name": "Fossil",
+    "type": "Sellable",
+    "value": 85000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "How did my grandmother get into this bot as an item?",
+    "longDescription": "You can use this item to start a quest for a unique pet.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\fossil.png"
+  },
+  {
+    "id": 5,
+    "itemKey": "bread",
+    "name": "Fresh Bread",
+    "type": "Sellable",
+    "value": 2000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "This used to be day old bread, but we decided it smelled too bad.",
+    "longDescription": "Using this will do nothing of value.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\bread.png"
+  },
+  {
+    "id": 2,
+    "itemKey": "garbage",
+    "name": "Garbage",
+    "type": "Sellable",
+    "value": 1000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "What has 6 wheels and flies? A garbage truck!",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\garbage.png"
+  },
+  {
+    "id": 97,
+    "itemKey": "goldennugget",
+    "name": "Golden Nugget",
+    "type": "Sellable",
+    "value": 250000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "It looks like a golden doo doo, it must be worth a lot!",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\goldennugget.png"
+  },
+  {
+    "id": 26,
+    "itemKey": "jellyfish",
+    "name": "Jelly Fish",
+    "type": "Sellable",
+    "value": 8000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Lucky for you this was not a Box jellyfish, look it up.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\jellyfish.png"
+  },
+  {
+    "id": 3,
+    "itemKey": "junk",
+    "name": "Junk",
+    "type": "Sellable",
+    "value": 1500,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "What do raccoons eat? Junk food!",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\junk.png"
+  },
+  {
+    "id": 28,
+    "itemKey": "kraken",
+    "name": "Kraken",
+    "type": "Sellable",
+    "value": 75000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "This thing is a pain to have around, it's always kraken jokes.",
+    "longDescription": "This item can be used to get a unique pet.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\kraken.png"
+  },
+  {
+    "id": 13,
+    "itemKey": "ladybug",
+    "name": "Ladybug",
+    "type": "Sellable",
+    "value": 5000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Fun fact, not all Lady Bugs are lady bugs. Some are in fact not ladies, as they act like heathens.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\ladybug.png"
+  },
+  {
+    "id": 92,
+    "itemKey": "lasso",
+    "name": "Lasso",
+    "type": "Sellable",
+    "value": 200000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Yeeeeeehaw, I done wrangled me a critter with this!",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\lasso.png"
+  },
+  {
+    "id": 143,
+    "itemKey": "lawdegree",
+    "name": "Law Degree",
+    "type": "Sellable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "I got my law degree the same way Mike Ross got his. Walking into the wrong office. Now I want to sell it.",
+    "longDescription": " Found from the lawyer job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\lawdegree.png"
+  },
+  {
+    "id": 27,
+    "itemKey": "legendaryfish",
+    "name": "Legendary Fish",
+    "type": "Sellable",
+    "value": 30000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "This fish is only half as legendary as the sailors it has brought to the bottom of the sea.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\legendaryfish.png"
+  },
+  {
+    "id": 71,
+    "itemKey": "tree",
+    "name": "Literally a Tree",
+    "type": "Sellable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "This is literally a tree. What else did you expect.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\tree.png"
+  },
+  {
+    "id": 138,
+    "itemKey": "memepills",
+    "name": "Meme pills",
+    "type": "Sellable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Sell these bad boys. Maybe we should dye them blue too.",
+    "longDescription": " Found from the pharmacist job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\memepills.png"
+  },
+  {
+    "id": 82,
+    "itemKey": "meteorite",
+    "name": "Meteorite",
+    "type": "Sellable",
+    "value": 200000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Thank god this didn't hit the Earth!",
+    "longDescription": "Using this item starts a secret quest for a green cutie!",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\meteorite.png"
+  },
+  {
+    "id": 200,
+    "itemKey": "moleman",
+    "name": "Mole Man",
+    "type": "Sellable",
+    "value": 85000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "I suggest seeing your dermatologist about this mole as I'm not sure liquid nitrogen works on things with claws.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\moleman.png"
+  },
+  {
+    "id": 145,
+    "itemKey": "note",
+    "name": "Musical Note",
+    "type": "Sellable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "A single note is enough to change the world. Of course, only if that note is a written note to a world power telling them \"I bet you can't nuke that other world power\". Has nothing to do with music.",
+    "longDescription": " Found from the musician job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\note.png"
+  },
+  {
+    "id": 235,
+    "itemKey": "plasticbag",
+    "name": "Plastic Bag",
+    "type": "Sellable",
+    "value": 50000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Do you ever feel like one?",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\plasticbag.png"
+  },
+  {
+    "id": 6,
+    "itemKey": "potato",
+    "name": "Potato ☭",
+    "type": "Sellable",
+    "value": 3000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Straight from the motherland, home grown and well distributed.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\potato.png"
+  },
+  {
+    "id": 17,
+    "itemKey": "rabbit",
+    "name": "Rabbit",
+    "type": "Sellable",
+    "value": 2500,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "A rabbit is also known as a Bunny, which means I hired a rabbit to do the art for this bot. No regrets.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\rabbit.png"
+  },
+  {
+    "id": 24,
+    "itemKey": "rarefish",
+    "name": "Rare Fish",
+    "type": "Sellable",
+    "value": 3500,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Some say this is the most rare fish in the sea! Until of course they catch an exotic or legendary fish.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\rarefish.png"
+  },
+  {
+    "id": 22,
+    "itemKey": "seaweed",
+    "name": "Seaweed",
+    "type": "Sellable",
+    "value": 600,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Seaweed is not nearly as fun as land weed, and I stand by that.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\seaweed.png"
+  },
+  {
+    "id": 16,
+    "itemKey": "skunk",
+    "name": "Skunk",
+    "type": "Sellable",
+    "value": 1500,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Skunks eat duck eggs. There is nothing else of importance to talk about with skunks, the duck leeches.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\skunk.png"
+  },
+  {
+    "id": 14,
+    "itemKey": "spider",
+    "name": "Spider",
+    "type": "Sellable",
+    "value": 27000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Did you know that many people are scared of spiders? AAAAAAAHHHHH GET IT OFF MY SCREE-",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\spider.png"
+  },
+  {
+    "id": 88,
+    "itemKey": "starfragment",
+    "name": "Star Fragment",
+    "type": "Sellable",
+    "value": 300000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Someone wished a little too hard and BROKE it!",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\starfragment.png"
+  },
+  {
+    "id": 12,
+    "itemKey": "stickbug",
+    "name": "Stickbug",
+    "type": "Sellable",
+    "value": 2500,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "It is truly sad to think about how many stickbugs were so well hidden that they became campfire tinder.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\stickbug.png"
+  },
+  {
+    "id": 234,
+    "itemKey": "strawberryshake",
+    "name": "Strawberry Shake",
+    "type": "Sellable",
+    "value": 250000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Strawberry.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\strawberryshake.png"
+  },
+  {
+    "id": 1,
+    "itemKey": "trash",
+    "name": "Trash",
+    "type": "Sellable",
+    "value": 10000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "I think I’m done buying trash bags... I always end up throwing them away anyways.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\trash.png"
+  },
+  {
+    "id": 136,
+    "itemKey": "vaccine",
+    "name": "Vaccine",
+    "type": "Sellable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Momma told me if I get this here shot I can get that there sucker.",
+    "longDescription": " Found from the doctor job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\vaccine.png"
+  },
+  {
+    "id": 227,
+    "itemKey": "watermelon",
+    "name": "Watermelon",
+    "type": "Sellable",
+    "value": 90000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "This is the kind with extra juice, so much that it's kinda surprising and you're not sure how all the juice fit in there in the first place. Then you try to drink the juice alone and it's just not that good. Idk.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\watermelon.png"
+  },
+  {
+    "id": 239,
+    "itemKey": "weetsdonut",
+    "name": "Weet's Donut",
+    "type": "Sellable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "A strawberry topped donut with frosting that suspiciously keeps getting all over your face. You keep wiping but the frosting spreads.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\weetsdonut.png"
+  },
+  {
+    "id": 10,
+    "itemKey": "worm",
+    "name": "Worm",
+    "type": "Sellable",
+    "value": 500,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Did you know that the Alaskan Bull Worm from SpongeBob Season 2 Episode 20 is in fact not based in reality?",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\worm.png"
+  },
+  {
+    "id": 186,
+    "itemKey": "zigscapybara",
+    "name": "Zig's Capybara",
+    "type": "Sellable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Top 10 best dressed capybaras",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\picture_renamed\\zigscapybara.png"
+  }
+]

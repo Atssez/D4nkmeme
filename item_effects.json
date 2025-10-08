@@ -1,0 +1,293 @@
+[
+  {
+    "itemKey": "adventurecompass",
+    "name": "Adventure Compass",
+    "longDescription": "Used to navigate through adventures. Increases success rate in exploration."
+  },
+  {
+    "itemKey": "alcohol",
+    "name": "Alcohol",
+    "longDescription": "Makes you tipsy. May affect robbing or gambling outcomes."
+  },
+  {
+    "itemKey": "ammo",
+    "name": "Ammo",
+    "longDescription": "Required for using weapons. Boosts attack success."
+  },
+  {
+    "itemKey": "apple",
+    "name": "Apple",
+    "longDescription": "Heals you a little bit. Not much, but it’s something."
+  },
+  {
+    "itemKey": "banknote",
+    "name": "Bank Note",
+    "longDescription": "Can be deposited instantly. Useful for quick banking."
+  },
+  {
+    "itemKey": "bottleofwhiskey",
+    "name": "Bottle of Whiskey",
+    "longDescription": "Strong drink. May boost courage or cause chaos."
+  },
+  {
+    "itemKey": "caipirinha",
+    "name": "Caipirinha",
+    "longDescription": "Brazilian cocktail. May improve luck or robbing."
+  },
+  {
+    "itemKey": "candy",
+    "name": "Candy",
+    "longDescription": "Sweet treat. Slightly boosts mood and luck."
+  },
+  {
+    "itemKey": "candycorn",
+    "name": "Candy Corn",
+    "longDescription": "Seasonal snack. May trigger Halloween events."
+  },
+  {
+    "itemKey": "creditcard",
+    "name": "Credit Card",
+    "longDescription": "Lets you spend without cash. May increase purchase success."
+  },
+  {
+    "itemKey": "crunchytaco",
+    "name": "Crunchy Taco",
+    "longDescription": "Tasty snack. May boost energy or cause a mess."
+  },
+  {
+    "itemKey": "cupidsbigtoe",
+    "name": "Cupid's Big Toe",
+    "longDescription": "Weird relic. May trigger romantic events or charm NPCs."
+  },
+  {
+    "itemKey": "elfontheshelf",
+    "name": "Elf On The Shelf",
+    "longDescription": "Holiday watcher. May summon gifts or punish naughty behavior."
+  },
+  {
+    "itemKey": "energydrink",
+    "name": "Energy Drink",
+    "longDescription": "Gives you a temporary boost in energy, increasing your chances of success in some actions."
+  },
+  {
+    "itemKey": "fishingbait",
+    "name": "Fishing Bait",
+    "longDescription": "Improves fishing success. Required for catching rare fish."
+  },
+  {
+    "itemKey": "luckyhorseshoe",
+    "name": "Lucky Horseshoe",
+    "longDescription": "Boosts luck for a short time. Useful for gambling or loot."
+  },
+  {
+    "itemKey": "pizzaslice",
+    "name": "Pizza Slice",
+    "longDescription": "Delicious food. Restores energy and boosts mood."
+  },
+  {
+    "itemKey": "prestigecoin",
+    "name": "Prestige Coin",
+    "longDescription": "Used to unlock prestige features. May boost all stats temporarily."
+  },
+  {
+    "itemKey": "robbersmask",
+    "name": "Robber's Mask",
+    "longDescription": "Improves robbing success. Reduces chance of getting caught."
+  },
+  {
+    "itemKey": "shreddedcheese",
+    "name": "Shredded Cheese",
+    "longDescription": "Can be thrown at enemies. May distract or annoy them."
+  },
+  {
+    "itemKey": "spookymask",
+    "name": "Spooky Mask",
+    "longDescription": "Scares others. May trigger fear-based effects or events."
+  },
+  {
+    "itemKey": "stolenamulet",
+    "name": "Stolen Amulet",
+    "longDescription": "Cursed item. May grant power or backfire horribly."
+  },
+  {
+    "itemKey": "streakfreeze",
+    "name": "Streak Freeze",
+    "longDescription": "Prevents your streak from resetting. Use before missing a day."
+  }
+
+  {
+    "itemKey": "adventurecompass",
+    "name": "Adventure Compass",
+    "longDescription": "Used to navigate through adventures. Increases success rate in exploration."
+  },
+  {
+    "itemKey": "alcohol",
+    "name": "Alcohol",
+    "longDescription": "Makes you tipsy. May affect robbing or gambling outcomes."
+  },
+  {
+    "itemKey": "ammo",
+    "name": "Ammo",
+    "longDescription": "Required for using weapons. Boosts attack success."
+  },
+  {
+    "itemKey": "apple",
+    "name": "Apple",
+    "longDescription": "Heals you a little bit. Not much, but it’s something."
+  },
+  {
+    "itemKey": "banknote",
+    "name": "Bank Note",
+    "longDescription": "Can be deposited instantly. Useful for quick banking."
+  },
+  {
+    "itemKey": "bottleofwhiskey",
+    "name": "Bottle of Whiskey",
+    "longDescription": "Strong drink. May boost courage or cause chaos."
+  },
+  {
+    "itemKey": "caipirinha",
+    "name": "Caipirinha",
+    "longDescription": "Brazilian cocktail. May improve luck or robbing."
+  },
+  {
+    "itemKey": "candy",
+    "name": "Candy",
+    "longDescription": "Sweet treat. Slightly boosts mood and luck."
+  },
+  {
+    "itemKey": "candycorn",
+    "name": "Candy Corn",
+    "longDescription": "Seasonal snack. May trigger Halloween events."
+  },
+  {
+    "itemKey": "creditcard",
+    "name": "Credit Card",
+    "longDescription": "Lets you spend without cash. May increase purchase success."
+  },
+  {
+    "itemKey": "crunchytaco",
+    "name": "Crunchy Taco",
+    "longDescription": "Tasty snack. May boost energy or cause a mess."
+  },
+  {
+    "itemKey": "cupidsbigtoe",
+    "name": "Cupid's Big Toe",
+    "longDescription": "Weird relic. May trigger romantic events or charm NPCs."
+  },
+  {
+    "itemKey": "elfontheshelf",
+    "name": "Elf On The Shelf",
+    "longDescription": "Holiday watcher. May summon gifts or punish naughty behavior."
+  },
+  {
+    "itemKey": "energydrink",
+    "name": "Energy Drink",
+    "longDescription": "Gives you a temporary boost in energy, increasing your chances of success in some actions."
+  },
+  {
+    "itemKey": "fishingbait",
+    "name": "Fishing Bait",
+    "longDescription": "Improves fishing success. Required for catching rare fish."
+  },
+  {
+    "itemKey": "luckyhorseshoe",
+    "name": "Lucky Horseshoe",
+    "longDescription": "Boosts luck for a short time. Useful for gambling or loot."
+  },
+  {
+    "itemKey": "pizzaslice",
+    "name": "Pizza Slice",
+    "longDescription": "Delicious food. Restores energy and boosts mood."
+  },
+  {
+    "itemKey": "prestigecoin",
+    "name": "Prestige Coin",
+    "longDescription": "Used to unlock prestige features. May boost all stats temporarily."
+  },
+  {
+    "itemKey": "robbersmask",
+    "name": "Robber's Mask",
+    "longDescription": "Improves robbing success. Reduces chance of getting caught."
+  },
+  {
+    "itemKey": "shreddedcheese",
+    "name": "Shredded Cheese",
+    "longDescription": "Can be thrown at enemies. May distract or annoy them."
+  },
+  {
+    "itemKey": "spookymask",
+    "name": "Spooky Mask",
+    "longDescription": "Scares others. May trigger fear-based effects or events."
+  },
+  {
+    "itemKey": "stolenamulet",
+    "name": "Stolen Amulet",
+    "longDescription": "Cursed item. May grant power or backfire horribly."
+  },
+  {
+    "itemKey": "streakfreeze",
+    "name": "Streak Freeze",
+    "longDescription": "Prevents your streak from resetting. Use before missing a day."
+  },
+  {
+    "itemKey": "coinbomb",
+    "name": "Coin Bomb",
+    "longDescription": "Drops coins in chat for others to grab. Great for flexing or sharing wealth."
+  },
+  {
+    "itemKey": "coinvoucher",
+    "name": "Coin Voucher",
+    "longDescription": "Redeemable for a random amount of coins. Can be used instantly."
+  },
+  {
+    "itemKey": "exclusivegemsbox",
+    "name": "Exclusive Gems Box",
+    "longDescription": "Contains rare gems that boost your stats or unlock special features."
+  },
+  {
+    "itemKey": "fartinabottle",
+    "name": "Fart In A Bottle",
+    "longDescription": "Disgusts nearby players. May cause them to lose coins or skip turns."
+  },
+  {
+    "itemKey": "foolnotif",
+    "name": "Fool's Notif",
+    "longDescription": "Sends a fake notification to confuse other players. Great for trolling."
+  },
+  {
+    "itemKey": "garbage",
+    "name": "Garbage",
+    "longDescription": "Can be recycled or used in crafting. Sometimes contains hidden loot."
+  },
+  {
+    "itemKey": "grindpack",
+    "name": "Grind Pack",
+    "longDescription": "Boosts your grind-related actions like work, beg, and search for a limited time."
+  },
+  {
+    "itemKey": "memepills",
+    "name": "Meme Pills",
+    "longDescription": "Makes your actions more meme-worthy. May increase success or cause chaos."
+  },
+  {
+    "itemKey": "sugarskull",
+    "name": "Sugar Skull",
+    "longDescription": "Used during spooky events. May summon ghosts or trigger rare loot drops."
+  },
+  {
+    "itemKey": "tipjar",
+    "name": "Tip Jar",
+    "longDescription": "Collects tips from other players. Can be placed in chat to earn coins passively."
+  },
+  {
+    "itemKey": "vaccine",
+    "name": "Vaccine",
+    "longDescription": "Protects you from certain negative effects or diseases in-game."
+  },
+  {
+    "itemKey": "voodoodoll",
+    "name": "Voodoo Doll",
+    "longDescription": "Targets another player with a random curse. Effects vary from coin loss to stat debuffs."
+  }
+]

@@ -1,0 +1,226 @@
+{
+    "7026067688": {
+        "coin": 152864,
+        "bank": 6500,
+        "inventory": {
+            "padlock": 3,
+            "ammo": 1,
+            "shovel": 1,
+            "cutters": 2,
+            "pepe": 5,
+            "cat": 2,
+            "starfish": 1,
+            "eyeball bait": 1,
+            "lucky bait": 1,
+            "magnet bait": 1,
+            "xp bait": 1,
+            "boxfish": 0,
+            "dynamite": 4,
+            "weighted bait": 1,
+            "adventure compass": 5,
+            "shrimp": 0,
+            "jellyfish": 0,
+            "butterfly fish": 3,
+            "white perch": 1,
+            "blue tang": 1,
+            "bluegill": 0,
+            "yellow perch": 1,
+            "ant": 0,
+            "fossil": 0,
+            "banknote": 3,
+            "newplayerpack": 1,
+            "huntingrifle": 1,
+            "fishingpole": 1,
+            "boar": 1,
+            "skunk": 0,
+            "deer": 2,
+            "garbage": 1,
+            "duck": 1,
+            "grindpack": 1,
+            "normiebox": 1
+        },
+        "xp": 59,
+        "level": 4,
+        "titles": [],
+        "npc_moods": {
+            "Chad Erningway": -18
+        },
+        "status": null,
+        "bank_capacity": 7500,
+        "last_daily": 1759665389,
+        "daily_streak": 1,
+        "last_daily_claim_date": "2025-10-05",
+        "gambling_daily": {
+            "date": "2025-10-05",
+            "wins": 1,
+            "winnings": 500,
+            "banned": true
+        },
+        "last_heist_fail": 1759675314
+    },
+    "6824593233": {
+        "coin": 0,
+        "bank": 0,
+        "xp": 5,
+        "level": 1,
+        "inventory": {},
+        "titles": []
+    },
+    "5612086143": {
+        "coin": 95242,
+        "bank": 5000,
+        "inventory": {},
+        "xp": 36,
+        "level": 1,
+        "titles": []
+    },
+    "1466423524": {
+        "coin": 77500,
+        "bank": 2500,
+        "inventory": {
+            "alcohol": 1
+        }
+    },
+    "8493335245": {
+        "coin": 32802,
+        "bank": 0,
+        "xp": 3,
+        "level": 1,
+        "inventory": {
+            "padlock": 1
+        },
+        "titles": []
+    },
+    "7834055817": {
+        "coin": 100142,
+        "bank": 0,
+        "xp": 12,
+        "level": 1,
+        "inventory": {
+            "newplayerpack": 1
+        },
+        "titles": []
+    },
+    "7402105664": {
+        "coin": 72250,
+        "bank": 0,
+        "xp": 1,
+        "level": 1,
+        "inventory": {},
+        "titles": []
+    },
+    "6679385156": {
+        "coin": 112500,
+        "bank": 0,
+        "xp": 2,
+        "level": 1,
+        "inventory": {},
+        "titles": [],
+        "gambling_daily": {
+            "date": "2025-10-05",
+            "wins": 1,
+            "winnings": 500,
+            "banned": false
+        }
+    },
+    "8489809102": {
+        "coin": 230465,
+        "bank": 0,
+        "xp": 14,
+        "level": 1,
+        "inventory": {
+            "cutters": 1
+        },
+        "titles": []
+    },
+    "bot_BotPlayer1_8661": {
+        "last_heist_fail": 1759675314
+    },
+    "bot_BotPlayer2_5295": {
+        "last_heist_fail": 1759675314
+    },
+    "bot_BotPlayer3_6547": {
+        "last_heist_fail": 1759675314
+    },
+    "5883414392": {
+        "coin": 200000,
+        "bank": 0,
+        "xp": 0,
+        "level": 1,
+        "inventory": {}
+    },
+    "7260009968": {
+        "coin": 98100,
+        "bank": 0,
+        "xp": 0,
+        "level": 1,
+        "inventory": {},
+        "gambling_daily": {
+            "date": "2025-10-05",
+            "wins": 1,
+            "winnings": 100,
+            "banned": false
+        }
+    },
+    "5997531075": {
+        "coin": 5009980206,
+        "bank": 0,
+        "xp": 6,
+        "level": 1,
+        "inventory": {},
+        "gambling_daily": {
+            "date": "2025-10-05",
+            "wins": 0,
+            "winnings": 0,
+            "banned": false
+        }
+    },
+    "6992860244": {
+        "coin": 50000,
+        "bank": 0,
+        "xp": 0,
+        "level": 1,
+        "inventory": {}
+    },
+    "7371426785": {
+        "coin": 84094,
+        "bank": 0,
+        "xp": 6,
+        "level": 1,
+        "inventory": {}
+    },
+    "6393947560": {
+        "coin": 5000795959,
+        "bank": 0,
+        "xp": 6,
+        "level": 1,
+        "inventory": {},
+        "gambling_daily": {
+            "date": "2025-10-05",
+            "wins": 0,
+            "winnings": 0,
+            "banned": false
+        }
+    },
+    "1597720820": {
+        "coin": 5000000000,
+        "bank": 0,
+        "xp": 0,
+        "level": 1,
+        "inventory": {}
+    },
+    "901698472": {
+        "coin": 2973,
+        "bank": 0,
+        "xp": 0,
+        "level": 1,
+        "inventory": {}
+    },
+    "6348892795": {
+        "coin": 100000,
+        "bank": 0,
+        "xp": 0,
+        "level": 1,
+        "inventory": {}
+    }
+}

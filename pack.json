@@ -1,0 +1,121 @@
+[
+  {
+    "id": 109,
+    "itemKey": "antirobpack",
+    "name": "Anti-Rob Pack",
+    "type": "Pack",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Try not to get robbed. Unless you're into that, then do what you want.",
+    "longDescription": "Opening this will give you some basic rob deterrence items.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\antirobpack.png"
+  },
+  {
+    "id": 221,
+    "itemKey": "christmasgift",
+    "name": "Christmas Gift",
+    "type": "Pack",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Merry Christmas from the Dank Memer team!",
+    "longDescription": "Opening this will give you some Christmas themed items to celebrate!",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\christmasgift.png"
+  },
+  {
+    "id": 110,
+    "itemKey": "grindpack",
+    "name": "Grind Pack",
+    "type": "Pack",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Grinding can be unhealthy, take breaks and touch grass.",
+    "longDescription": "Opening this will give you some basic grind assisting items.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\grindpack.png"
+  },
+  {
+    "id": 107,
+    "itemKey": "newplayerpack",
+    "name": "New Player Pack",
+    "type": "Pack",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "A pack to get you on your feet in the bot as a new player.",
+    "longDescription": "Opening this will give you some basic items.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\newplayerpack.png"
+  },
+  {
+    "id": 111,
+    "itemKey": "patreonpack",
+    "name": "Patreon Pack",
+    "type": "Pack",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Thanks for supporting us! Now shut up and take my items.",
+    "longDescription": "Opening this will give you some somewhat rarer items to assist in your gameplay.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\patreonpack.png"
+  },
+  {
+    "id": 108,
+    "itemKey": "prestigepack",
+    "name": "Prestige Pack",
+    "type": "Pack",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Congrats on prestiging, here is the most basic list of items that will not matter because you stored all your stuff on an alt first.",
+    "longDescription": "Opening this will give you some basic items.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\prestigepack.png"
+  },
+  {
+    "id": 232,
+    "itemKey": "votepack",
+    "name": "Vote Pack",
+    "type": "Pack",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "I vote daily, where is my daily box!!!! Oh in the daily command, that makes sense.",
+    "longDescription": "Opening this will give you some items you will probably use to help your grind.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\votepack.png"
+  }
+]

@@ -1,0 +1,1617 @@
+[
+  {
+    "id": 177,
+    "itemKey": "adventurevoucher",
+    "name": "Adventure Voucher",
+    "type": "Collectable",
+    "value": 1500000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Grandma printed me off this voucher for one free box!",
+    "longDescription": "Using this item allows you to exchange it for an adventure themed lootbox.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\adventurevoucher.png"
+  },
+  {
+    "id": 46,
+    "itemKey": "aetheryxflower",
+    "name": "Aetheryx' Flower",
+    "type": "Collectable",
+    "value": 5000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "A decomposing red flower, a wisp of its former self.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\aetheryxflower.png"
+  },
+  {
+    "id": 173,
+    "itemKey": "aipheysgemstone",
+    "name": "Aiphey's Gemstone",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Aiphey's gemstone is a precious stone. It vibrates at a high frequency, creating a bubble of spiritual protection against negative energy. It is such a sacred and a rare stone, if you ever manage to get it, you must protect it at all costs.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\aipheysgemstone.png"
+  },
+  {
+    "id": 85,
+    "itemKey": "aliensample",
+    "name": "Alien Sample",
+    "type": "Collectable",
+    "value": 500000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "This is payback for the samples they've taken from us!",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\aliensample.png"
+  },
+  {
+    "id": 31,
+    "itemKey": "armpithair",
+    "name": "Armpit Hair",
+    "type": "Collectable",
+    "value": 25000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": true,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "It tastes funny!",
+    "longDescription": "Using this lets you do something gross.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\armpithair.png"
+  },
+  {
+    "id": 142,
+    "itemKey": "baby",
+    "name": "Baby",
+    "type": "Collectable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "This is a virtual baby. Not a real baby. Needed to clear that up for some people.",
+    "longDescription": " Found from the babysitter job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\baby.png"
+  },
+  {
+    "id": 42,
+    "itemKey": "badoszcard",
+    "name": "Badosz's Card",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "A real king in the sleeve.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\badoszcard.png"
+  },
+  {
+    "id": 185,
+    "itemKey": "sludgesbarrel",
+    "name": "Barrel of Sludge",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Toxic and stinky, but with something good inside.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\sludgesbarrel.png"
+  },
+  {
+    "id": 49,
+    "itemKey": "beanmp3",
+    "name": "Bean Mp3 Player",
+    "type": "Collectable",
+    "value": 50000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Legendary",
+    "description": "Beans beans, the magical fruit. The more you eat, the more your voice turns into an mp3 file.",
+    "longDescription": "Using this posts an audio file of B E A N S.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\beanmp3.png"
+  },
+  {
+    "id": 73,
+    "itemKey": "berriesandcream",
+    "name": "Berries and Cream",
+    "type": "Collectable",
+    "value": 5000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "I'm a little lad who loves... CoD and Doritos!",
+    "longDescription": "Use this item to send it to someone who loves berries and cream!",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\berriesandcream.png"
+  },
+  {
+    "id": 128,
+    "itemKey": "binary",
+    "name": "Binary",
+    "type": "Collectable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "I dare you to translate this binary into text.",
+    "longDescription": " Found from the developer job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\binary.png"
+  },
+  {
+    "id": 2017,
+    "itemKey": "birthdaycake",
+    "name": "Birthday Cake",
+    "type": "Collectable",
+    "value": 1172017,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": false
+    },
+    "rarity": "Epic",
+    "description": "Anything but ice-cream \"cake\", unless that's the lie.",
+    "longDescription": "Only obtainable during Dank Memer's birthday (January 17th). This item cannot be traded or transferred to other players.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\birthdaycake.png"
+  },
+  {
+    "id": 84,
+    "itemKey": "blackhole",
+    "name": "Black Hole",
+    "type": "Collectable",
+    "value": 500000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "I don't think this is safe to keep around?",
+    "longDescription": "Having any amount of this item in your inventory gives you a chance to have it suck up an item you find while using the bot. This happening enters you into a chance of winning a daily black hole lottery containing part of all the items sucked up in a day!",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\blackhole.png"
+  },
+  {
+    "id": 80,
+    "itemKey": "blob",
+    "name": "Blob",
+    "type": "Collectable",
+    "value": 50000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": true,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "The blob will rise again, look to the sky and ask for forgiveness.",
+    "longDescription": "Using this does not consume it, but does nothing of value.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\blob.png"
+  },
+  {
+    "id": 61,
+    "itemKey": "blueplasticbits",
+    "name": "Blue Plastic Bits",
+    "type": "Collectable",
+    "value": 25000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Blue is a fan favorite, I especially like Bluey.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\blueplasticbits.png"
+  },
+  {
+    "id": 52,
+    "itemKey": "bluesplane",
+    "name": "Blue's Plane",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "This top-of-the-line aircraft carries only the most prestigious of passengers.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\bluesplane.png"
+  },
+  {
+    "id": 55,
+    "itemKey": "cutters",
+    "name": "Bolt Cutters",
+    "type": "Collectable",
+    "value": 100000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "I made this item to rob from normies without ever failing, now lots of people have it so I had to nerf it to just break a padlock. Lame devs, L.",
+    "longDescription": "Owning this item makes you break padlocks when robbing.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\cutters.png"
+  },
+  {
+    "id": 213,
+    "itemKey": "broccoli",
+    "name": "Broccoli",
+    "type": "Collectable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Little trees go in my mouf.",
+    "longDescription": "You can use this to craft pet food.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\broccoli.png"
+  },
+  {
+    "id": 51,
+    "itemKey": "bunnysapron",
+    "name": "Bunny's Apron",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "A handmade pink apron with bunny ears stitched to the pocket, finely crafted for Michelin Star chefs, is mainly found in the kitchen.",
+    "longDescription": "Using this item will turn your embeds pinks.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\bunnysapron.png"
+  },
+  {
+    "id": 90,
+    "itemKey": "cactus",
+    "name": "Cactus",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Everyone knows someone who reminds them of what this cactus does, a bit of a prick.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\cactus.png"
+  },
+  {
+    "id": 212,
+    "itemKey": "carrot",
+    "name": "Carrot",
+    "type": "Collectable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "Bottom. Top was taken by the comedian.",
+    "longDescription": "You can use this to craft pet food.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\carrot.png"
+  },
+  {
+    "id": 58,
+    "itemKey": "chillpill",
+    "name": "Chill Pill",
+    "type": "Collectable",
+    "value": 25000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Chill Phil, take a big ol chill pill.",
+    "longDescription": "Using this item does nothing of value.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\chillpill.png"
+  },
+  {
+    "id": 176,
+    "itemKey": "chocolatecake",
+    "name": "Chocolate Cake",
+    "type": "Collectable",
+    "value": 8000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Everyone loves chocolate cake. EVERYONE. No exceptions. Don't argue with me.",
+    "longDescription": "You can use this item to obtain a pepe skin over with our friends at bake.gg!",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\chocolatecake.png"
+  },
+  {
+    "id": 72,
+    "itemKey": "christmastree",
+    "name": "Christmas Tree",
+    "type": "Collectable",
+    "value": 5000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "This tree is missing an ornament. Must have fallen and broke back in 2005.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\christmastree.png"
+  },
+  {
+    "id": 94,
+    "itemKey": "cowboyboots",
+    "name": "Cowboy Boots",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Wear these as a SPUR of the moment fashion choice you coward!",
+    "longDescription": "When you use this item you gain an extra 2.0x XP multi for 4 hours.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\cowboyboots.png"
+  },
+  {
+    "id": 91,
+    "itemKey": "cowboyhat",
+    "name": "Cowboy Hat",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Doug Dimmadome would be proud of this.",
+    "longDescription": "Using this gives you cowboy themed embed colors. (Brown, leather colored)",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\cowboyhat.png"
+  },
+  {
+    "id": 39,
+    "itemKey": "cursedpepe",
+    "name": "Cursed Pepe",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "A pepe that not even a mother could love... But I sure do.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\cursedpepe.png"
+  },
+  {
+    "id": 196,
+    "itemKey": "hoodie",
+    "name": "Designer Hoodie",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Darkus wanted a hoodie item for winning a competition. AS REQUESTED, a designer hoodie!",
+    "longDescription": "Using this item gives you black embed colors.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\hoodie.png"
+  },
+  {
+    "id": 204,
+    "itemKey": "diggingtrophy",
+    "name": "Digging Trophy",
+    "type": "Collectable",
+    "value": 20000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "Me? Personally? I'm digging it.",
+    "longDescription": "Having one of these in your inventory will allow you to use the dig command without a shovel.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\diggingtrophy.png"
+  },
+  {
+    "id": 69,
+    "itemKey": "enchantedbad",
+    "name": "Enchanted Badosz's Card",
+    "type": "Collectable",
+    "value": 100000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Legendary",
+    "description": "It's a Badosz card, but enchanted. If only the enchantment DID something!",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\enchantedbad.png"
+  },
+  {
+    "id": 163,
+    "itemKey": "ring",
+    "name": "Engagement Ring",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "Marriage in a MEME game? Disgusting.",
+    "longDescription": "Use this ring to propose a marriage to someone!",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\ring.png"
+  },
+  {
+    "id": 149,
+    "itemKey": "spinner",
+    "name": "Fidget Spinner",
+    "type": "Collectable",
+    "value": 50000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Once a stimulation tool, now a bad meme.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\spinner.png"
+  },
+  {
+    "id": 203,
+    "itemKey": "fishingtrophy",
+    "name": "Fishing Trophy",
+    "type": "Collectable",
+    "value": 20000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "It's not about how many fish you catch, it's about whether you decide to sell them on the market for stonks or use them to craft a slimy trophy.",
+    "longDescription": "Having one of these in your inventory will allow you to use the fish command without a fishing pole.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\fishingtrophy.png"
+  },
+  {
+    "id": 74,
+    "itemKey": "fool",
+    "name": "Fool's Notif",
+    "type": "Collectable",
+    "value": 25000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "An item for fools. NO I meant April fools...",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\fool.png"
+  },
+  {
+    "id": 77,
+    "itemKey": "gift",
+    "name": "Friend's Gift",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "Why do you have your friend's gift still, give it to them already.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\gift.png"
+  },
+  {
+    "id": 98,
+    "itemKey": "giftbox",
+    "name": "Gift Box",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "The lootbox that cannot be opened. The cursed lootbox if you will.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\giftbox.png"
+  },
+  {
+    "id": 218,
+    "itemKey": "goldencoins",
+    "name": "Golden Coins",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": false
+    },
+    "rarity": "Godly",
+    "description": "The golden coins of Melmsie's appreciation, not worth much but at least normies don't get them.",
+    "longDescription": "This item is only acquired by staff for Dank Memer's server. It is not in any way able to be transferred to or from people, so if someone has it that means they helped manage giveaways or moderate for some time.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\goldencoins.png"
+  },
+  {
+    "id": 44,
+    "itemKey": "goldencorndog",
+    "name": "Golden Corndog",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Why is this golden. It does not look edible at all.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\goldencorndog.png"
+  },
+  {
+    "id": 64,
+    "itemKey": "goldenplasticbits",
+    "name": "Golden Plastic Bits",
+    "type": "Collectable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "The icon, the legend, the... oh the market price is dropping again",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\goldenplasticbits.png"
+  },
+  {
+    "id": 193,
+    "itemKey": "grass",
+    "name": "Grass",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "This item is a paradox. If someone owns it they probably do not touch grass, yet they are currently touching grass.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\grass.png"
+  },
+  {
+    "id": 201,
+    "itemKey": "gravestone",
+    "name": "Gravestone",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "Having this means you died. Unless you bought it from someone else on the market. Imagine buying someone else's gravestone. New black market listing unlocked!",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\gravestone.png"
+  },
+  {
+    "id": 37,
+    "itemKey": "stocking",
+    "name": "Holiday Stocking",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Some people call this a sock, I call it a HOLIDAY sock!",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\stocking.png"
+  },
+  {
+    "id": 191,
+    "itemKey": "holybadoszbread",
+    "name": "Holy Badosz's Bread",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "This bread might be holy, but it smells TERRIBLE and probably should not be touched with a ten foot pole. This must be 10,000 years old.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\holybadoszbread.png"
+  },
+  {
+    "id": 192,
+    "itemKey": "holywater",
+    "name": "Holy Water",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "This water is (metaphorically) used to cleanse the eyes of anyone who looked at Badosz.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\holywater.png"
+  },
+  {
+    "id": 202,
+    "itemKey": "huntingtrophy",
+    "name": "Hunting Trophy",
+    "type": "Collectable",
+    "value": 20000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "It's a 27 point buck, just believe me and do NOT try and count it.",
+    "longDescription": "Having one of these in your inventory will allow you to use the hunt command without a hunting rifle.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\huntingtrophy.png"
+  },
+  {
+    "id": 78,
+    "itemKey": "jacky",
+    "name": "Jacky o' Lanty",
+    "type": "Collectable",
+    "value": 5000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "The name is how it is because I did not want people calling it jack. People did it anyway.",
+    "longDescription": "Using this item will turn embed colors into spooky fall colors.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\jacky.png"
+  },
+  {
+    "id": 83,
+    "itemKey": "jarofsingularity",
+    "name": "Jar Of Singularity",
+    "type": "Collectable",
+    "value": 500000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "Wait, HOW did they get this in a jar?",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\jarofsingularity.png"
+  },
+  {
+    "id": 174,
+    "itemKey": "kablessunglasses",
+    "name": "Kable's Sunglasses",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "A chad item for virgin staff member.",
+    "longDescription": "Using this item on someone reminds them that no one asked.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\kablessunglasses.png"
+  },
+  {
+    "id": 168,
+    "itemKey": "laptop",
+    "name": "Laptop",
+    "type": "Collectable",
+    "value": 5000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Imagine using a laptop instead of a cellphone in 2025, wait it's not 2025 yet carry on.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\laptop.png"
+  },
+  {
+    "id": 123,
+    "itemKey": "likebutton",
+    "name": "Like Button",
+    "type": "Collectable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "SMASH THAT LIKE BUTTON, RING THE BELL",
+    "longDescription": " Found from the youtuber job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\likebutton.png"
+  },
+  {
+    "id": 47,
+    "itemKey": "karen",
+    "name": "Literally Karen",
+    "type": "Collectable",
+    "value": 100000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Legendary",
+    "description": "She wants to speak to your manager.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\karen.png"
+  },
+  {
+    "id": 48,
+    "itemKey": "melmsiebeard",
+    "name": "Melmsie's Beard",
+    "type": "Collectable",
+    "value": 5000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "I am livid that someone shaved this off my face. Give it BACK. Right now. Seriously! `/friends share items user:@Dank Memer#5192 quantity:1 item:Melmsie's Beard`",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\melmsiebeard.png"
+  },
+  {
+    "id": 220,
+    "itemKey": "menorah",
+    "name": "Menorah",
+    "type": "Collectable",
+    "value": 10000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "\"Missing two candles! Melmsie it is wrong it's missing two candles!\" It's on PURPOSE, our artist made the executive decision to cut off two candles to be able to add more detail to the rest of it.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\menorah.png"
+  },
+  {
+    "id": 65,
+    "itemKey": "multiplasticbits",
+    "name": "Multi Colored Plastic Bits",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "In a world full of color, things like this item become possible with only imagination.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\multiplasticbits.png"
+  },
+  {
+    "id": 223,
+    "itemKey": "popper",
+    "name": "New Years Popper",
+    "type": "Collectable",
+    "value": 10000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Only obtainable during New Years Eve (EST), this item is an item to remember the past year while looking forward to the next.",
+    "longDescription": "Using this item will turn embed colors to silver or white.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\popper.png"
+  },
+  {
+    "id": 57,
+    "itemKey": "eye",
+    "name": "Odd Eye",
+    "type": "Collectable",
+    "value": 100000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "The only one who could see the dark globule in the distance, and now watches over the rest.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\eye.png"
+  },
+  {
+    "id": 93,
+    "itemKey": "revolver",
+    "name": "Old Cowboy Revolver",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Wait, what does Russian Roulette have to do with cowboys?",
+    "longDescription": "Using this item starts a game of Russian Roulette in chat. 6 people are chosen from all the people who entered, there are 5 bullets in the chamber so only one will walk away with some cash.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\revolver.png"
+  },
+  {
+    "id": 63,
+    "itemKey": "orangeplasticbits",
+    "name": "Orange Plastic Bits",
+    "type": "Collectable",
+    "value": 25000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "The only thing that rhymes with orange is gullible",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\orangeplasticbits.png"
+  },
+  {
+    "id": 38,
+    "itemKey": "ornament",
+    "name": "Ornament",
+    "type": "Collectable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "These make a satisfying sound when they fall of the tree in 2005 and make everyone in the house wake up and think a gun went off. Trust me.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\ornament.png"
+  },
+  {
+    "id": 164,
+    "itemKey": "pepecoin",
+    "name": "Pepe Coin",
+    "type": "Collectable",
+    "value": 250000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "Can you even believe that this used to be the most expensive item? Now it's a gift you'd give your cousin as a hand me down.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\pepecoin.png"
+  },
+  {
+    "id": 147,
+    "itemKey": "pepecrown",
+    "name": "Pepe Crown",
+    "type": "Collectable",
+    "value": 100000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": true,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Some say pepe personally gifted this crown to those who own it. That would be absurd though.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\pepecrown.png"
+  },
+  {
+    "id": 165,
+    "itemKey": "pepemedal",
+    "name": "Pepe Medal",
+    "type": "Collectable",
+    "value": 12000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "This medal used to be rare, now it's just a secondhand bargin bin item for the rich players.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\pepemedal.png"
+  },
+  {
+    "id": 33,
+    "itemKey": "peperibbon",
+    "name": "Pepe Ribbon",
+    "type": "Collectable",
+    "value": 5000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Legendary",
+    "description": "A ribbon? You think I want a RIBBON? Oh it's pepe themed? Count me in.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\peperibbon.png"
+  },
+  {
+    "id": 190,
+    "itemKey": "pepering",
+    "name": "Pepe Ring",
+    "type": "Collectable",
+    "value": 50000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Go go gadget deploy pepe ring! Oh it's just a collectable.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\pepering.png"
+  },
+  {
+    "id": 66,
+    "itemKey": "pepestatue",
+    "name": "Pepe Statue",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "A statue immortalizing pepe, as all statues should.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\pepestatue.png"
+  },
+  {
+    "id": 35,
+    "itemKey": "pepesus",
+    "name": "Pepe Sus",
+    "type": "Collectable",
+    "value": 50000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Legendary",
+    "description": "Pepe... why are you looking so SUS step bro",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\pepesus.png"
+  },
+  {
+    "id": 155,
+    "itemKey": "pepetrophy",
+    "name": "Pepe Trophy",
+    "type": "Collectable",
+    "value": 30000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "A trophy that is worth its weight in coins. Sadly the weight is much lower than the purchase price.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\pepetrophy.png"
+  },
+  {
+    "id": 216,
+    "itemKey": "petfeces",
+    "name": "Pet Feces",
+    "type": "Collectable",
+    "value": 50000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "They look like chocolate lincoln logs. I must resist a little snacky.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\petfeces.png"
+  },
+  {
+    "id": 184,
+    "itemKey": "saddle",
+    "name": "Pet Saddle",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "I got the horses in the back, horse tack is attached...",
+    "longDescription": "Having this item in your inventory gives all your pets a small xp boost when walking them.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\saddle.png"
+  },
+  {
+    "id": 60,
+    "itemKey": "pinkplasticbits",
+    "name": "Pink Plastic Bits",
+    "type": "Collectable",
+    "value": 12,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "The classic item that new users will never know about",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\pinkplasticbits.png"
+  },
+  {
+    "id": 127,
+    "itemKey": "policebadge",
+    "name": "Police Badge",
+    "type": "Collectable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "A shiny police badge, covered in the blood of their vic- nevermind.",
+    "longDescription": " Found from the police officer job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\policebadge.png"
+  },
+  {
+    "id": 62,
+    "itemKey": "purpleplasticbits",
+    "name": "Purple Plastic Bits",
+    "type": "Collectable",
+    "value": 25000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Did you know purple is my favorite color?",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\purpleplasticbits.png"
+  },
+  {
+    "id": 228,
+    "itemKey": "puzzlekey",
+    "name": "Puzzle Key",
+    "type": "Collectable",
+    "value": 1000000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "A key without a use. Is it intended to have no use? Will it ever? How puzzling...",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\puzzlekey.png"
+  },
+  {
+    "id": 172,
+    "itemKey": "butterfly",
+    "name": "Rare Butterfly",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "A beautiful butterfly in the sky, but I think I can fly twice as high. This item was made for a previous team member, Amathine",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\butterfly.png"
+  },
+  {
+    "id": 160,
+    "itemKey": "pepe",
+    "name": "Rare Pepe",
+    "type": "Collectable",
+    "value": 50000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Ironically enough, the rare pepe is not that rare.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\pepe.png"
+  },
+  {
+    "id": 56,
+    "itemKey": "reversal",
+    "name": "Reversal Card",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "Reversal cards were previously used to reverse a steal someone performed on you. Due to being SUPER buggy and causing multiple exploits, they are no longer functional, and never will be.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\reversal.png"
+  },
+  {
+    "id": 29,
+    "itemKey": "scepter",
+    "name": "Royal Scepter",
+    "type": "Collectable",
+    "value": 25000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "A royal scepter such as this is worth close to 50k gold carats, dang!",
+    "longDescription": "This item can be used to change embed colors to \"royal colors\"",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\scepter.png"
+  },
+  {
+    "id": 188,
+    "itemKey": "hotdog",
+    "name": "Sanic Hot Dog",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Personally I prefer these but the chili dogs are the only ones on doordash so idk.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\hotdog.png"
+  },
+  {
+    "id": 76,
+    "itemKey": "santashat",
+    "name": "Santa's Hat",
+    "type": "Collectable",
+    "value": 25000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "I stole this right off his little jolly head.",
+    "longDescription": "Using this item will give you Christmas themed colors.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\santashat.png"
+  },
+  {
+    "id": 67,
+    "itemKey": "urinal",
+    "name": "School Urinal",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Yes, that IS pee around the rim. How did you know?",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\urinal.png"
+  },
+  {
+    "id": 89,
+    "itemKey": "shootingstar",
+    "name": "Shooting Star",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Make a wish upon this star and change who the pets are.",
+    "longDescription": "You can use this to transform your pet (give it's prestige 5+) to another type of pet with the same name and stats.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\shootingstar.png"
+  },
+  {
+    "id": 68,
+    "itemKey": "snowflake",
+    "name": "Snowflake",
+    "type": "Collectable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Everyone is a unique snowflake, but not twins right?",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\snowflake.png"
+  },
+  {
+    "id": 53,
+    "itemKey": "paw",
+    "name": "Squishy Paw",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "A squishy paw that can relieve stress and make you smile. SQUISH! SQUISH! SQUISH! (Yeng Gang rise up). This item was made for a previous team member, Yeng.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\paw.png"
+  },
+  {
+    "id": 129,
+    "itemKey": "cash",
+    "name": "Stack of Cash",
+    "type": "Collectable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Wait so you gave me a stack of cash and I have to trade it for only 2 things? This sounds more like a coupon.",
+    "longDescription": "Use this item to turn it into banknotes or pizzas. Found from the politician job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\cash.png"
+  },
+  {
+    "id": 195,
+    "itemKey": "stonkcoin",
+    "name": "Stonk Coin",
+    "type": "Collectable",
+    "value": 20000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "Rotsevni wanted a stonk coin, so Rotsevni got a stonk coin. Winning our competitions pays off!",
+    "longDescription": "Using this item gives you +500% coin multiplier for 24 hours.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\stonkcoin.png"
+  },
+  {
+    "id": 30,
+    "itemKey": "letter",
+    "name": "The Letter",
+    "type": "Collectable",
+    "value": 25000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": true,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "What's in the letter? Open it up to find out!",
+    "longDescription": "Using this item gives you some messages from the people who won the item competition.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\letter.png"
+  },
+  {
+    "id": 187,
+    "itemKey": "megaphone",
+    "name": "The Megaphone",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "The voice of the people echo through this. This item was made for a previous team member, Alexa.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\megaphone.png"
+  },
+  {
+    "id": 170,
+    "itemKey": "tidepod",
+    "name": "Tidepod",
+    "type": "Collectable",
+    "value": 50000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Do not eat this. Do not ignore this warning because memes. Stop eating them. God damn it, stop it.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\tidepod.png"
+  },
+  {
+    "id": 36,
+    "itemKey": "toiletpaper",
+    "name": "Toilet Paper",
+    "type": "Collectable",
+    "value": 50000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "If 2-ply is so good for my undercarriage, why not just double wrap it to make 4-ply?",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\toiletpaper.png"
+  },
+  {
+    "id": 175,
+    "itemKey": "townieseyes",
+    "name": "Townie's Eyes",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Townie sees all.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\townieseyes.png"
+  },
+  {
+    "id": 95,
+    "itemKey": "treasuremap",
+    "name": "Treasure Map",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Follow carefully: To the left, take it back now ya'll, one hop this time!",
+    "longDescription": "Using this item spawns a mini game. If you win, you get some coins!",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\treasuremap.png"
+  },
+  {
+    "id": 224,
+    "itemKey": "triviatrophy",
+    "name": "Trivia Trophy",
+    "type": "Collectable",
+    "value": 1,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": false
+    },
+    "rarity": "Common",
+    "description": "Biggest brain = biggest highway lane",
+    "longDescription": "These are earned from answering trivia questions correctly and cannot be transferred on the market or anywhere else.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\triviatrophy.png"
+  },
+  {
+    "id": 96,
+    "itemKey": "tumbleweed",
+    "name": "Tumbleweed",
+    "type": "Collectable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "These are a menace to society, look it up!",
+    "longDescription": "Using this consumes it and does nothing at all.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\tumbleweed.png"
+  },
+  {
+    "id": 54,
+    "itemKey": "lotterywinner",
+    "name": "Winning Lottery Ticket",
+    "type": "Collectable",
+    "value": 5000000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Is it even that lucky, you probably paid 5b to win.",
+    "longDescription": "Owning this gives you a 2% higher chance at random events spawning.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\lotterywinner.png"
+  },
+  {
+    "id": 222,
+    "itemKey": "zombee",
+    "name": "ZomB's ZomBee",
+    "type": "Collectable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "According to all known laws of the universe, there is no way a bee should be able to come back from the dead. The bee, of course, rises from the dead anyway because bees don't care what humans think is impossible.",
+    "longDescription": null,
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\zombee.png"
+  }
+]

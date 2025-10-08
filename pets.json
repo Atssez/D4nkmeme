@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Rock",
+    "emoji": "🪨",
+    "price": " 500,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Rock.png"
+  },
+  {
+    "name": "Crab",
+    "emoji": "🦀",
+    "price": " 2,000,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Crab.png"
+  },
+  {
+    "name": "Dog",
+    "emoji": "🐶",
+    "price": " 3,000,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Dog.png"
+  },
+  {
+    "name": "Fox",
+    "emoji": "🦊",
+    "price": " 5,000,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Fox.png"
+  },
+  {
+    "name": "Cat",
+    "emoji": "🐱",
+    "price": " 5,000,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Cat.png"
+  },
+  {
+    "name": "Duck",
+    "emoji": "🦆",
+    "price": " 8,000,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Duck.png"
+  },
+  {
+    "name": "Turtle",
+    "emoji": "🐢",
+    "price": " 8,000,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Turtle.png"
+  },
+  {
+    "name": "Bunny",
+    "emoji": "🐰",
+    "price": " 8,000,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Bunny.png"
+  },
+  {
+    "name": "Birb",
+    "emoji": "🐦",
+    "price": " 10,000,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Birb.png"
+  },
+  {
+    "name": "Pepe",
+    "emoji": "🐸",
+    "price": " 15,000,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Pepe.png"
+  },
+  {
+    "name": "Hamster",
+    "emoji": "🐹",
+    "price": " 15,000,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Hamster.png"
+  },
+  {
+    "name": "Catgirl",
+    "emoji": "😺",
+    "price": " 15,000,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Catgirl.png"
+  },
+  {
+    "name": "Axolotl",
+    "emoji": "🦎",
+    "price": " 30,000,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Axolotl.png"
+  },
+  {
+    "name": "Kraken",
+    "emoji": "🦑",
+    "price": " 50,000,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Kraken.png"
+  },
+  {
+    "name": "Monkey",
+    "emoji": "🐒",
+    "price": " 10,000,000",
+    "link": "C:\\Users\\Administrator\\Desktop\\TelegramBot\\petspic\\Monkey.png"
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "id": 236,
+    "itemKey": "compass",
+    "name": "Adventure Compass",
+    "type": "Power-up",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "Navigate through life's twists and turns with confidence, and you'll never feel lost or un-compass-ionate about your choices.",
+    "longDescription": "While this item is active, you have a small chance to double coins and item rewards from adventure interactions. Found from the adventurer job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\compass.png"
+  },
+  {
+    "id": 152,
+    "itemKey": "alcohol",
+    "name": "Alcohol",
+    "type": "Power-up",
+    "value": 20000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "This is the cheap stuff. Not quite Bud Lite, but similar.",
+    "longDescription": "Drink a bottle of alcohol, and have the potential to gain a slight luck boost that will grant you better luck in stealing from others. However, you become more susceptible to being stolen from! There is also a 10% chance you will die from alcohol poisoning.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\alcohol.png"
+  },
+  {
+    "id": 132,
+    "itemKey": "ammo",
+    "name": "Ammo",
+    "type": "Power-up",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Does this ammo even fit the hunting rifle?",
+    "longDescription": "While this item is active, you cannot find \"nothing\" while hunting. Found from the professional hunter job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\ammo.png"
+  },
+  {
+    "id": 169,
+    "itemKey": "apple",
+    "name": "Apple",
+    "type": "Power-up",
+    "value": 8500,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Sweet apples are better than tart, no one will change my mind.",
+    "longDescription": "Eating this once a day makes it so you do not lose any inventory or active items if you die. The lifesaver takes priority over this effect. (Lasts 24 hours)",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\apple.png"
+  },
+  {
+    "id": 59,
+    "itemKey": "banknote",
+    "name": "Bank Note",
+    "type": "Power-up",
+    "value": 150000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Imagine if banks actually had a max amount. Wait, some do? Thanks Obama.",
+    "longDescription": "You can use this item to expand your max bank space.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\banknote.png"
+  },
+  {
+    "id": 140,
+    "itemKey": "whiskey",
+    "name": "Bottle of Whiskey",
+    "type": "Power-up",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Whiskey and a little coke, daddy likey",
+    "longDescription": "Using this will give you a better chance to steal from people for 15 hours. Found from the bartender job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\whiskey.png"
+  },
+  {
+    "id": 229,
+    "itemKey": "caipirinha",
+    "name": "Caipirinha",
+    "type": "Power-up",
+    "value": 500000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Legendary",
+    "description": "Don’t worry about what this drink is made of. Worry about proving what you’re made of by drinking it.",
+    "longDescription": "Using this item will affect your next rob (no timer) and has a 50% chance to guarantee you steal the max value with no dropped coins if it is successful. However, it also has a 50% chance of failing, and you will give the victim a random item from your inventory or ALL of your coins if you have no items. We'll never know which until you rob.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\caipirinha.png"
+  },
+  {
+    "id": 79,
+    "itemKey": "candy",
+    "name": "Candy",
+    "type": "Power-up",
+    "value": 25000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "It is not saltwater taffy. Unless...",
+    "longDescription": "Using this item will give a small amount of coins.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\candy.png"
+  },
+  {
+    "id": 197,
+    "itemKey": "candycorn",
+    "name": "Candy Corn",
+    "type": "Power-up",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Uncommon",
+    "description": "I'm starting to think whoever developed this bot just really likes corn.",
+    "longDescription": "Using this item will give you a level instantly. You can use more than one at once to level in bulk!",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\candycorn.png"
+  },
+  {
+    "id": 41,
+    "itemKey": "creditcard",
+    "name": "Credit Card",
+    "type": "Power-up",
+    "value": 2000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "My mom will never know this is missing.",
+    "longDescription": "You can use this item to \"buy\" someone or yourself 5 days of premium perks for Dank Memer. (Close to the $2 perk value, missing a few things)",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\creditcard.png"
+  },
+  {
+    "id": 124,
+    "itemKey": "taco",
+    "name": "Crunchy Taco",
+    "type": "Power-up",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "This is a beef taco, but we all know fish tacos are better.",
+    "longDescription": "Using this item will double your level up rewards for 24 hours. Found from the fast food cook job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\taco.png"
+  },
+  {
+    "id": 81,
+    "itemKey": "cupidsbigtoe",
+    "name": "Cupid's Big Toe",
+    "type": "Power-up",
+    "value": 25000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Cupid lost this in a bet. I took it fair and square, legally of course.",
+    "longDescription": "Applies a multiplier of **69%** for **69 seconds**.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\cupidsbigtoe.png"
+  },
+  {
+    "id": 219,
+    "itemKey": "elfontheshelf",
+    "name": "Elf On The Shelf",
+    "type": "Power-up",
+    "value": 500000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Chippy is angry and chippy is going to make that YOUR problem.",
+    "longDescription": "Using this elf places it on your farm for the next 7 days. During that time, you'll get notifications when your crops are ready to harvest!",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\elfontheshelf.png"
+  },
+  {
+    "id": 139,
+    "itemKey": "energydrink",
+    "name": "Energy Drink",
+    "type": "Power-up",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Guess the brand that inspired this art. Nope, wrong. It was bud lite.",
+    "longDescription": "Drinking this decreases the time between your work shifts for 6 hours. Found from the pro gamer job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\energydrink.png"
+  },
+  {
+    "id": 133,
+    "itemKey": "bait",
+    "name": "Fishing Bait",
+    "type": "Power-up",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "All my homies (fish) love biting this (fake) food.",
+    "longDescription": "While this item is active, you cannot find \"nothing\" while fishing. Found from the professional fisherman job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\bait.png"
+  },
+  {
+    "id": 158,
+    "itemKey": "lifesaver",
+    "name": "Life Saver",
+    "type": "Power-up",
+    "value": 200000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": true,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "The heart is crunchy and has no flavor. Better save it for later.",
+    "longDescription": "When you die with one of these in your inventory, you are saved from death.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\lifesaver.png"
+  },
+  {
+    "id": 157,
+    "itemKey": "horseshoe",
+    "name": "Lucky Horseshoe",
+    "type": "Power-up",
+    "value": 75000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "The horse was named lucky, but are we sure it was... lucky?",
+    "longDescription": "Activating this gives you increased chance at higher tier drops in grind commands. Anywhere you see a horseshoe while this is active, that command is being affected.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\horseshoe.png"
+  },
+  {
+    "id": 120,
+    "itemKey": "poster",
+    "name": "Motivational Poster",
+    "type": "Power-up",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "This is the poster everyone stares at when getting yelled at for sitting on the job. Very motivational.",
+    "longDescription": "Provides a 5% work payout bonus, stacking up to 50%. Found from the manager job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\poster.png"
+  },
+  {
+    "id": 134,
+    "itemKey": "collar",
+    "name": "Pet Collar",
+    "type": "Power-up",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "The collar of the 42nd cat girl I've lost this year.",
+    "longDescription": "Owning this item passively gives you a higher chance to find run away pets in the search command. Found from the veterinarian job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\collar.png"
+  },
+  {
+    "id": 162,
+    "itemKey": "pizza",
+    "name": "Pizza Slice",
+    "type": "Power-up",
+    "value": 300000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "You wanted pineapple chunks on this, we get it. Too bad.",
+    "longDescription": "Using this item will give you a 2.5x XP multi for 30 minutes.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\pizza.png"
+  },
+  {
+    "id": 45,
+    "itemKey": "prestigecoin",
+    "name": "Prestige Coin",
+    "type": "Power-up",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "A coin you get in exchange for losing most of your stuff. Seems fair.",
+    "longDescription": "Using this item will give you 8 hours of 250% multiplier.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\prestigecoin.png"
+  },
+  {
+    "id": 141,
+    "itemKey": "robbersmask",
+    "name": "Robbers Mask",
+    "type": "Power-up",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Everyone knows when you put on a mask no one can tell who was under it, no matter what. It's the law.",
+    "longDescription": "Your name will not show up on steal or bankrob notifs sent to the victim for 12 hours after using. Found from the robber job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\robbersmask.png"
+  },
+  {
+    "id": 144,
+    "itemKey": "coupon",
+    "name": "Shop Coupon",
+    "type": "Power-up",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": false,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "This coupon expired last month, which is why it no longer applies to drop item sales.",
+    "longDescription": "You will have the option to use this at a shop checkout. You can get 5% off any purchase from the shop. Found from the dank memer shopkeeper job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\coupon.png"
+  },
+  {
+    "id": 161,
+    "itemKey": "cheese",
+    "name": "Shredded Cheese",
+    "type": "Power-up",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Common",
+    "description": "Standing at the kitchen door, staring at the fridge. It calls my name.",
+    "longDescription": "For every bag of shredded cheese consumed, you get a stacking EXP multiplier, capping at **85%** (**30** bags of cheese consumed). There is also a chance it will fail and you will lose some experience points.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\cheese.png"
+  },
+  {
+    "id": 198,
+    "itemKey": "spookymask",
+    "name": "Spooky Mask",
+    "type": "Power-up",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "This mask is going to make someone scream, scream of fear or joy? Both!",
+    "longDescription": "Use this mask to scare all your pets into submission. For two weeks they will not run away, but they also will not gain xp, reproduce, or be able to fight.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\spookymask.png"
+  },
+  {
+    "id": 237,
+    "itemKey": "amulet",
+    "name": "Stolen Amulet",
+    "type": "Power-up",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Godly",
+    "description": "Soil your hands, but never your reputation, as you unearth the secrets hidden beneath the surface with this totally NOT stolen amulet.",
+    "longDescription": "While this item is active, you cannot find \"nothing\" while digging. Found from the grave digger job.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\amulet.png"
+  },
+  {
+    "id": 50,
+    "itemKey": "streakfreeze",
+    "name": "Streak Freeze",
+    "type": "Power-up",
+    "value": 2000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Is it just me or is my streak freezing me out of the relationship?",
+    "longDescription": "Using this item will turn it into an active item that lasts 7 days. Within those 7 days streaks, marriage, pets and work will be impossible to lose.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\streakfreeze.png"
+  }
+]

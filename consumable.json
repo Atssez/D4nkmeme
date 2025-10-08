@@ -1,0 +1,87 @@
+[
+  {
+    "id": 40,
+    "itemKey": "boxedchocolates",
+    "name": "Boxed Chocolates",
+    "type": "Consumable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Life is like a chocolate of boxes. Wait, that's not right.",
+    "longDescription": "Using this item will raise your marriage level.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\boxedchocolates.png"
+  },
+  {
+    "id": 194,
+    "itemKey": "coinvoucher",
+    "name": "Coin Voucher",
+    "type": "Consumable",
+    "value": 10000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Sometimes you need an item to turn into coins. This is that item, duh.",
+    "longDescription": "Using this item will turn it into 10 million coins. You can use multiple at once with the quantity argument.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\coinvoucher.png"
+  },
+  {
+    "id": 32,
+    "itemKey": "fartinabottle",
+    "name": "Fart In A Bottle",
+    "type": "Consumable",
+    "value": 100000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "\"You're either a smart fella or a fart smella.\" -TheLazyTownie",
+    "longDescription": "Using this on someone prevents them from running commands for a short while. It has the chance to backfire and hit you instead.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\fartinabottle.png"
+  },
+  {
+    "id": 230,
+    "itemKey": "postcard",
+    "name": "Postcard",
+    "type": "Consumable",
+    "value": 500000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Epic",
+    "description": "Pepe went to brazil, and all he got you was this postcard and a little drunk.",
+    "longDescription": "Use this to send a friend a postcard! It will generate an image with your given text and DM it to them if their DMs are open to Dank Memer!",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\postcard.png"
+  },
+  {
+    "id": 34,
+    "itemKey": "sugarskull",
+    "name": "Sugar Skull",
+    "type": "Consumable",
+    "value": 1000000,
+    "flags": {
+      "CONSUMABLE": true,
+      "PURCHASEABLE": false,
+      "REUSABLE": false,
+      "TRANSFERABLE": true
+    },
+    "rarity": "Rare",
+    "description": "Celebrate Día de los Muertos by using this, yum!",
+    "longDescription": "Using this item changes your embed colors to be Día de los Muertos themed.",
+    "imageURL": "C:\\Users\\Administrator\\Desktop\\emoji_renamed\\sugarskull.png"
+  }
+]

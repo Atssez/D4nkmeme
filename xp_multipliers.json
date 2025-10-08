@@ -1,0 +1,13 @@
+{
+  "items": {
+    "Shredded Cheese": "1.5x XP multiplier after 50 cheese used",
+    "Pizza Slice": "2.5x XP Boost for 30 minutes",
+    "Cowboy Boots": "Double XP Boost for 1 hour",
+    "Daily Box": "Double XP Boost for 10 minutes (stackable)"
+  },
+  "boosts": {
+    "Global Boost": "30 minutes, affects every player",
+    "Prestige": "+0.015x XP multiplier per Prestige (permanent)",
+    "Omega": "+0.12x XP multiplier per Omega (permanent)"
+  }
+}
